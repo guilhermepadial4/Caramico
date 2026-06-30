@@ -1,0 +1,4 @@
+46.50.183.5 - anonymous [12/Mar/2013:10:23:32 +0000] "[156961]USER anonymous FTP" 331 0 "-" "-"
+46.50.183.5 - bot@filemare.com [12/Mar/2013:10:23:32 +0000] "[156961]PASS bot@filemare.com FTP" 230 0 "-" "-"
+46.50.183.5 - bot@filemare.com [12/Mar/2013:10:23:32 +0000] "[156961]CWD / FTP" 250 0 "-" "-"
+46.50.183.5 - bot@filemare.com [12/Mar/2013:10:23:34 +0000] "[156961]CWD /webroot FTP" 550 0 "-" "-"

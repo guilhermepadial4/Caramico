@@ -1,0 +1,3471 @@
+# Webalizer V2.01-06 Incremental Data - 09/30/2020 20:37:59
+2020 9 30 20 37 59
+7435 6627 821 170 50 169 42051396 1839 1001 0
+39 87 1073 1 30
+299 247 1321111 58 57 34
+188 147 1068696 29 56 21
+178 116 1415222 43 83 35
+158 138 710272 34 31 26
+152 139 852279 23 35 12
+75 60 844203 26 49 16
+73 56 897534 28 33 16
+167 129 1308146 47 79 42
+235 217 1129296 30 48 24
+495 459 2388825 65 99 45
+393 368 2159063 47 90 51
+369 325 1465139 36 55 33
+107 93 983287 25 51 23
+204 182 1164608 36 51 33
+130 112 788886 35 42 32
+190 157 1473593 59 81 48
+338 321 2105040 37 97 48
+53 40 539644 26 37 30
+312 275 1824419 31 62 29
+190 169 922874 38 38 30
+114 99 891561 40 52 43
+95 65 999758 36 52 33
+431 408 1983617 48 72 36
+204 181 1543255 40 82 44
+291 248 1649066 55 80 50
+121 91 870390 26 34 21
+225 205 2285695 34 112 35
+156 132 863947 41 44 38
+1165 1143 3545845 37 55 37
+327 305 2056125 39 82 39
+0 0 0 0 0 0
+169 139 1553585 80
+78 44 594745 40
+66 44 603726 37
+56 39 512953 29
+65 46 616676 35
+57 46 618088 39
+102 74 1095019 56
+344 320 1896239 85
+439 404 2227191 98
+306 280 1717468 79
+650 605 3330933 132
+612 550 2887879 107
+345 300 2629631 123
+389 327 1934714 70
+249 209 1677667 70
+363 332 1957507 87
+447 404 2269040 102
+246 204 1435960 78
+1351 1318 4447309 94
+143 123 1043926 60
+430 389 2857668 125
+124 104 1199922 72
+162 128 1779423 96
+242 198 1164127 45
+0
+0
+0
+6627
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+0
+777
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+0
+0
+1
+0
+# -urls- 
+/imagens/img_advogados/main/advogados_r1_c2_on.jpg
+1 67 0 134938 0 0
+/imagens/img_advogados/main/advogados_r4_c4.jpg
+1 34 0 81736 0 0
+/imagens/botoes/botoes_r1_c4.jpg
+1 78 0 232284 0 0
+/contato.php
+0 36 1598941411 55584 0 0
+/imagens/img_areas/main_area/area_r2_c1.jpg
+1 10 0 15910 0 0
+/
+0 884 0 12678484 719 317
+/imagens/img_contato/main_contato/contato_r2_c4.jpg
+1 16 0 24448 0 0
+/imagens/botoes/botoes_blue_r1_c2.jpg
+1 64 0 106496 0 0
+/imagens/img_index/main_index/index_r4_c2.jpg
+1 57 0 286311 0 0
+/imagens/img_areas/main_area/area_r4_c4.jpg
+1 10 1599249536 131560 0 0
+/imagens/img_advogados/main/advogados_r4_c3.jpg
+1 34 0 56066 0 0
+/imagens/botoes/botoes_r1_c3.jpg
+1 76 0 131708 0 0
+/imagens/img_artigos/main_artigos/artigos_r2_c4.jpg
+1 19 858860854 58938 0 0
+/imagens/img_escritorio/titulo_escritorio.gif
+1 12 0 7812 0 0
+/imagens/img_contato/main_contato/contato_r2_c3.jpg
+1 15 0 12525 0 0
+/imagens/botoes/botoes_blue_r1_c1.jpg
+1 66 0 96030 0 0
+/imagens/img_index/main_index/index_r1_c4.jpg
+1 59 0 186853 0 0
+/adv_camila.htm
+0 42 0 563381 27 30
+/areas_atuacao.htm
+0 89 0 1156844 20 14
+/imagens/img_index/main_index/index_r4_c1.jpg
+1 58 0 298794 0 0
+/imagens/img_areas/main_area/area_r4_c3.jpg
+1 9 0 30087 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r2_c4.jpg
+1 12 0 44376 0 0
+/imagens/img_advogados/main/advogados_r4_c2.jpg
+1 34 0 130968 0 0
+/imagens/botoes/botoes_r1_c2.jpg
+1 79 0 193945 0 0
+/imagens/img_artigos/main_artigos/artigos_r2_c3.jpg
+1 19 0 17138 0 0
+/imagens/img_contato/main_contato/contato_r2_c2.jpg
+1 16 1598979442 16464 0 0
+/imagens/img_index/main_index/index_r1_c3.jpg
+1 55 0 81015 0 0
+/imagens/img_areas/main_area/area_r4_c2.jpg
+1 10 0 41880 0 0
+/imagens/img_links/main_links/links_r2_c4.jpg
+1 11 959655221 24882 0 0
+/imagens/img_advogados/main/advogados_r1_c4.jpg
+1 36 0 33984 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r2_c3.jpg
+1 14 0 17430 0 0
+/imagens/img_advogados/main/advogados_r4_c1.jpg
+1 33 0 148698 0 0
+/imagens/botoes/botoes_r1_c1.jpg
+1 87 0 181656 0 0
+/imagens/img_advogados/main/advogados_r3_c2_normal.jpg
+1 34 0 42296 0 0
+/imagens/img_artigos/main_artigos/artigos_r2_c2.jpg
+1 18 758592561 27396 0 0
+/imagens/img_contato/main_contato/contato_r2_c1.jpg
+1 15 1598967256 13020 0 0
+/imagens/img_index/main_index/index_r1_c2.jpg
+1 56 0 68145 0 0
+/adv_scarpin.htm
+0 12 0 164472 4 4
+/imagens/img_areas/main_area/area_r1_c4.jpg
+1 9 1869098290 73170 0 0
+/artigos.asp
+0 327 0 5949698 0 0
+/imagens/img_areas/main_area/area_r4_c1.jpg
+1 11 0 39006 0 0
+/imagens/img_links/main_links/links_r2_c3.jpg
+1 7 0 2471 0 0
+/imagens/img_advogados/main/advogados_r1_c3.jpg
+1 69 0 93978 0 0
+/imagens/img_contato/main_contato/contato_r4_c4.jpg
+1 14 0 71358 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r2_c2.jpg
+1 13 0 11193 0 0
+/imagens/img_artigos/main_artigos/artigos_r2_c1.jpg
+1 19 0 21451 0 0
+/areas_atuacao_trab.htm
+0 75 0 982585 8 6
+/imagens/img_index/main_index/index_r1_c1.jpg
+1 60 0 70920 0 0
+/imagens/img_areas/main_area/area_r1_c3.jpg
+1 9 0 23544 0 0
+/imagens/img_artigos/main_artigos/artigos_r4_c4.jpg
+1 16 0 135808 0 0
+/imagens/img_links/main_links/links_r2_c2.jpg
+1 6 758658097 2334 0 0
+/imagens/img_advogados/main/advogados_r1_c3_normal.jpg
+1 37 0 15799 0 0
+/imagens/img_advogados/main/advogados_r1_c2.jpg
+1 67 0 136747 0 0
+/imagens/img_contato/main_contato/contato_r4_c3.jpg
+1 16 0 38832 0 0
+/imagens/img_index/main_index/index_r3_c4.jpg
+1 56 0 392280 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r2_c1.jpg
+1 14 0 4984 0 0
+/adv_marcelo.htm
+0 28 0 405972 9 9
+/imagens/img_areas/main_area/area_r1_c2.jpg
+1 8 0 22448 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r4_c4.jpg
+1 14 0 161700 0 0
+/imagens/img_advogados/main/advogados_r2_c2_on.jpg
+1 66 0 128502 0 0
+/imagens/img_artigos/main_artigos/artigos_r4_c3.jpg
+1 21 0 72933 0 0
+/imagens/img_links/main_links/links_r2_c1.jpg
+1 6 0 2502 0 0
+/imagens/img_advogados/main/advogados_r1_c1.jpg
+1 34 0 76160 0 0
+/imagens/img_contato/main_contato/contato_r4_c2.jpg
+1 15 1598955660 32835 0 0
+/imagens/img_index/main_index/index_r3_c3.jpg
+1 58 0 80997 0 0
+/imagens/img_links/main_links/links_r4_c4.jpg
+1 7 858599984 49231 0 0
+/imagens/img_advogados/main/advogados_r3_c4.jpg
+1 34 0 30566 0 0
+/imagens/img_areas/titulo_areas.gif
+1 9 0 8046 0 0
+/imagens/img_areas/main_area/area_r1_c1.jpg
+1 9 0 20205 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r4_c3.jpg
+1 13 0 82108 0 0
+/imagens/img_artigos/main_artigos/artigos_r4_c2.jpg
+1 18 0 60192 0 0
+/imagens/img_advogados/andrea.jpg
+1 12 1667378741 67440 0 0
+/imagens/img_contato/main_contato/contato_r1_c4.jpg
+1 15 1598938085 22560 0 0
+/imagens/img_contato/main_contato/contato_r4_c1.jpg
+1 16 0 41328 0 0
+/adv_gustavo.htm
+0 87 0 1152724 42 5
+/imagens/img_index/main_index/index_r3_c2.jpg
+1 57 0 60819 0 0
+/contato.htm
+0 93 0 1136646 14 9
+/imagens/img_areas/main_area/area_r3_c4.jpg
+1 11 3617841 63547 0 0
+/imagens/img_links/main_links/links_r4_c3.jpg
+1 6 775041325 4752 0 0
+/imagens/img_advogados/main/advogados_r3_c3.jpg
+1 33 0 13893 0 0
+/imagens/img_artigos/main_artigos/artigos_r1_c4.jpg
+1 17 959525165 49521 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r4_c2.jpg
+1 12 0 58728 0 0
+/imagens/img_artigos/main_artigos/artigos_r4_c1.jpg
+1 21 0 53949 0 0
+/imagens/img_contato/main_contato/contato_r1_c3.jpg
+1 16 0 10064 0 0
+/adv_carlos.htm
+0 45 0 646830 30 22
+/imagens/img_index/main_index/index_r3_c1.jpg
+1 61 0 129442 0 0
+/imagens/img_areas/main_area/area_r3_c3.jpg
+1 10 1731093346 13770 0 0
+/areas_atuacao_tribu.htm
+0 75 0 967080 16 7
+/imagens/img_links/main_links/links_r4_c2.jpg
+1 6 0 3288 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r1_c4.jpg
+1 13 0 38506 0 0
+/imagens/img_advogados/main/advogados_r3_c2.jpg
+1 64 0 154752 0 0
+/imagens/img_artigos/main_artigos/artigos_r1_c3.jpg
+1 17 0 15402 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r4_c1.jpg
+1 14 0 63812 0 0
+/adv_anna.htm
+0 14 0 191128 4 1
+/imagens/img_contato/main_contato/contato_r1_c2.jpg
+1 15 1598933580 13305 0 0
+/imagens/img_index/logo_fit.gif
+1 56 0 48720 0 0
+/adv_thais.htm
+0 12 0 166020 1 1
+/imagens/img_areas/main_area/area_r3_c2.jpg
+1 10 0 14670 0 0
+/imagens/img_links/main_links/links_r1_c4.jpg
+1 5 0 9860 0 0
+/imagens/img_escritorio/img_escritorio2.gif
+1 13 0 154323 0 0
+/imagens/img_links/main_links/links_r4_c1.jpg
+1 9 0 5625 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r1_c3.jpg
+1 14 0 17164 0 0
+/imagens/img_advogados/main/advogados_r3_c1.jpg
+1 33 0 93291 0 0
+/imagens/img_advogados/main/advogados_r2_c3_normal.jpg
+1 32 0 13824 0 0
+/caramico.htm
+0 92 0 1238487 17 18
+/imagens/img_artigos/main_artigos/artigos_r1_c2.jpg
+1 22 758396461 30382 0 0
+/imagens/img_advogados/drmauro.jpg
+1 25 0 123225 0 0
+/adv_spinelli.htm
+0 16 0 220672 8 7
+/imagens/img_contato/main_contato/contato_r1_c1.jpg
+1 15 0 14325 0 0
+/imagens/img_advogados/main/advogados_r1_c3_on.jpg
+1 63 0 81963 0 0
+/imagens/img_contato/titulo_contato.gif
+1 15 0 7860 0 0
+/imagens/img_areas/main_area/area_r3_c1.jpg
+1 10 775171635 14800 0 0
+/imagens/img_links/main_links/links_r1_c3.jpg
+1 7 1747793717 2555 0 0
+/imagens/img_advogados/main/advogados_r1_c2_normal.jpg
+1 34 0 26690 0 0
+/imagens/img_contato/main_contato/contato_r3_c4.jpg
+1 16 0 25136 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r1_c2.jpg
+1 13 0 9607 0 0
+/imagens/img_artigos/main_artigos/artigos_r1_c1.jpg
+1 18 0 20214 0 0
+/adv_bruno.htm
+0 1 0 13653 1 0
+/imagens/img_artigos/main_artigos/artigos_r3_c4.jpg
+1 17 0 53346 0 0
+/adv_alessandro.htm
+0 18 0 245556 9 2
+/imagens/img_links/main_links/links_r1_c2.jpg
+1 6 1936681005 2250 0 0
+/imagens/img_advogados/main/advogados_r3_c2_on.jpg
+1 64 0 151552 0 0
+/imagens/img_contato/main_contato/contato_r3_c3.jpg
+1 16 1598989172 16224 0 0
+/imagens/img_index/main_index/index_r2_c4.jpg
+1 58 0 258970 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r1_c1.jpg
+1 13 0 4563 0 0
+/imagens/img_advogados/titulo1_escritorio.gif
+1 34 0 22508 0 0
+/links.htm
+0 82 0 1286863 7 15
+/imagens/img_escritorio/main_escritorio/escritorio_r3_c4.jpg
+1 12 0 62592 0 0
+/imagens/img_artigos/main_artigos/artigos_r3_c3.jpg
+1 19 0 25574 0 0
+/imagens/img_links/main_links/links_r1_c1.jpg
+1 7 0 2828 0 0
+/imagens/img_links/titulo_links.gif
+1 6 0 2484 0 0
+/imagens/img_contato/main_contato/contato_r3_c2.jpg
+1 15 0 17100 0 0
+/imagens/img_index/main_index/index_r2_c3.jpg
+1 54 0 84726 0 0
+/imagens/botoes/botoes_blue_r1_c6.jpg
+1 65 0 68640 0 0
+/imagens/img_links/main_links/links_r3_c4.jpg
+1 6 48 16722 0 0
+/imagens/img_advogados/main/advogados_r2_c4.jpg
+1 36 0 31752 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r3_c3.jpg
+1 13 0 21151 0 0
+/imagens/img_artigos/main_artigos/artigos_r3_c2.jpg
+1 21 0 31605 0 0
+/imagens/img_contato/main_contato/contato_r3_c1.jpg
+1 15 0 12750 0 0
+/imagens/img_index/main_index/index_r2_c2.jpg
+1 57 0 58539 0 0
+/imagens/img_areas/main_area/area_r2_c4.jpg
+1 11 774910253 80795 0 0
+/advogados.htm
+0 115 0 1604802 39 22
+/adv_andrea.htm
+0 27 0 396441 11 6
+/phpMail.php
+0 6 0 864 0 0
+/imagens/botoes/botoes_blue_r1_c5.jpg
+1 64 0 51584 0 0
+/imagens/img_links/main_links/links_r3_c3.jpg
+1 7 0 2485 0 0
+/imagens/img_advogados/main/advogados_r2_c3.jpg
+1 65 0 140660 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r3_c2.jpg
+1 14 0 27286 0 0
+/imagens/img_artigos/main_artigos/artigos_r3_c1.jpg
+1 19 0 22021 0 0
+/imagens/img_index/fundo.jpg
+1 69 0 294906 0 0
+/imagens/botoes/botoes_r1_c6.jpg
+1 81 0 119040 0 0
+/imagens/img_index/main_index/index_r2_c1.jpg
+1 56 0 118944 0 0
+/imagens/img_areas/main_area/area_r2_c3.jpg
+1 9 0 18684 0 0
+/imagens/botoes/botoes_blue_r1_c4.jpg
+1 64 0 127168 0 0
+/imagens/img_links/main_links/links_r3_c2.jpg
+1 6 959525165 2310 0 0
+/imagens/img_advogados/main/advogados_r2_c2.jpg
+1 64 0 126976 0 0
+/imagens/img_advogados/main/advogados_r2_c2_normal.jpg
+1 35 0 38570 0 0
+/imagens/img_index/main_index/index_r4_c4.jpg
+1 59 0 887596 0 0
+/imagens/img_escritorio/main_escritorio/escritorio_r3_c1.jpg
+1 13 0 5421 0 0
+/imagens/img_index/linha_rodape.gif
+1 77 0 79310 0 0
+/imagens/img_advogados/marcelo.jpg
+1 12 0 62184 0 0
+/imagens/botoes/botoes_r1_c5.jpg
+1 86 0 93052 0 0
+/imagens/img_artigos/titulo_artigos.gif
+1 17 0 16728 0 0
+/imagens/img_areas/main_area/area_r2_c2.jpg
+1 9 0 18819 0 0
+/imagens/img_advogados/main/advogados_r2_c3_on.jpg
+1 65 0 138255 0 0
+/imagens/img_index/logo_caramico.gif
+1 84 0 356748 0 0
+/imagens/botoes/botoes_blue_r1_c3.jpg
+1 66 0 82632 0 0
+/imagens/img_links/main_links/links_r3_c1.jpg
+1 5 0 2110 0 0
+/imagens/img_advogados/main/advogados_r2_c1.jpg
+1 36 0 95400 0 0
+/imagens/img_index/main_index/index_r4_c3.jpg
+1 58 0 298062 0 0
+# End Of Table - urls
+# -sites- (monthly)
+msnbot-157-55-39-21.search.msn.com
+0 3 0 63 0 0
+-
+177-189-189-194.dsl.telesp.net.br
+0 66 65 187732 1 1600884483
+/
+bd78e8a2.virtua.com.br
+0 22 22 77489 1 1599575899
+/
+petalbot-114-119-153-160.aspiegel.com
+0 1 0 21 0 0
+-
+40.94.28.6
+0 6 6 14951 0 0
+-
+ec2-18-220-173-40.us-east-2.compute.amazonaws.com
+0 6 4 57426 2 1600643471
+/
+40.94.28.8
+0 14 14 41580 1 1600884535
+/
+107-172-183-97-host.colocrossing.com
+0 1 1 14346 1 1600857061
+/
+107-172-183-0-host.colocrossing.com
+0 1 1 14346 1 1599595570
+/
+ip-54-36-148-119.a.ahrefs.com
+0 1 0 21 0 0
+-
+static-104-226-26-226.wlfr.ct.frontiernet.net
+0 1 0 21 0 0
+-
+fw-snet-n01.wc2.phx1.stabletransit.com
+0 1 0 21 0 0
+-
+77-88-5-227.spider.yandex.com
+0 3 2 28713 2 1600342475
+/
+173.252.95.2
+0 1 1 2041 0 0
+-
+ip-54-36-149-50.a.ahrefs.com
+0 1 0 21 0 0
+-
+petalbot-114-119-157-51.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-197-host.colocrossing.com
+0 1 1 14346 1 1600762013
+/
+179-113-209-58.user.vivozap.com.br
+0 64 63 183552 1 1599940161
+/adv_gustavo.htm
+fwdproxy-atn-024.fbsv.net
+0 7 7 40645 1 1599736074
+/
+33.27.73.34.bc.googleusercontent.com
+0 3 1 14388 1 1600101067
+/
+23-94-145-138-host.colocrossing.com
+0 1 1 14346 1 1599238856
+/
+bzq-82-80-249-137.dcenter.bezeqint.net
+0 39 38 613830 3 1601187683
+/adv_thais.htm
+107-172-183-154-host.colocrossing.com
+0 1 1 14346 1 1599119023
+/
+199-47-87-142.ip87.iparadigms.net
+0 18 14 194112 1 1599597961
+/links.htm
+ip-54-36-149-55.a.ahrefs.com
+0 1 0 21 0 0
+-
+petalbot-114-119-147-13.aspiegel.com
+0 1 0 21 0 0
+-
+h-217.114.218.29.keyweb.de
+0 1 1 14346 1 1600589123
+/
+77-88-5-238.spider.yandex.com
+0 1 1 14346 1 1598985138
+/
+ip-54-36-148-71.a.ahrefs.com
+0 1 1 29062 0 0
+-
+15.34.231.35.bc.googleusercontent.com
+0 4 2 28734 1 1600011846
+/
+crawl-66-249-64-47.googlebot.com
+0 15 8 114915 8 1600245999
+/
+192.167.243.35.bc.googleusercontent.com
+0 23 21 301130 2 1599788559
+/areas_atuacao_tribu.htm
+104.180.237.35.bc.googleusercontent.com
+0 4 2 28734 1 1601169987
+/
+23-94-145-149-host.colocrossing.com
+0 1 1 14346 1 1600156189
+/
+107-172-183-165-host.colocrossing.com
+0 1 1 14346 1 1601026087
+/
+ec2-54-213-59-43.us-west-2.compute.amazonaws.com
+0 1 1 14346 1 1600981046
+/
+petalbot-114-119-159-145.aspiegel.com
+0 1 0 21 0 0
+-
+107-172-183-202-host.colocrossing.com
+0 2 2 28692 2 1599134746
+/
+209.127.38.30
+0 1 1 14346 1 1600790102
+/
+ip-54-36-148-145.a.ahrefs.com
+0 1 0 21 0 0
+-
+77-88-5-7.spider.yandex.com
+0 1 0 21 0 0
+-
+77-88-5-249.spider.yandex.com
+0 1 1 14346 1 1600178849
+/
+23-94-145-16-host.colocrossing.com
+0 2 1 14367 1 1601280396
+/
+73.255.162.191.isp.timbrasil.com.br
+0 195 194 642857 3 1599735437
+/
+static.243.102.76.144.clients.your-server.de
+0 1 1 20852 0 0
+-
+92.180.196.35.bc.googleusercontent.com
+0 4 2 28734 1 1600005096
+/
+ip-208-109-53-185.ip.secureserver.net
+0 1 0 21 0 0
+-
+106.75.57.52
+0 6 6 86076 2 1600764637
+/
+static.88-198-43-207.clients.your-server.de
+0 1 1 20160 0 0
+-
+107-172-183-176-host.colocrossing.com
+0 2 2 28692 2 1600972043
+/
+petalbot-114-119-158-18.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-86-host.colocrossing.com
+0 1 1 14346 1 1599127376
+/
+crawl-66-249-64-40.googlebot.com
+0 1 1 13387 1 1600253006
+/areas_atuacao_trab.htm
+dynamic-167-250-42-15.hubteltelecom.net.br
+0 2 0 2416 0 0
+-
+aip-138.trustwave.com
+0 1 1 14346 1 1600585161
+/
+34.75.39.130
+0 1 0 21 0 0
+-
+ip-187-119-237-105.user.vivozap.com.br
+0 16 15 42505 1 1601282350
+/adv_carlos.htm
+23-94-145-121-host.colocrossing.com
+0 1 1 14346 1 1599569871
+/
+78.141.209.75.vultr.com
+0 2 1 13789 2 1600154789
+/
+p3nlhg403.shr.prod.phx3.secureserver.net
+0 1 0 21 0 0
+-
+23-94-145-208-host.colocrossing.com
+0 1 1 14346 1 1600771234
+/
+ip-54-36-149-38.a.ahrefs.com
+0 1 1 14056 1 1600854429
+/caramico.htm
+54.38.23.160
+0 1 1 12222 1 1599812674
+/contato.htm
+petalbot-114-119-130-237.aspiegel.com
+0 1 0 21 0 0
+-
+petalbot-114-119-128-162.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-97-host.colocrossing.com
+0 1 1 14346 1 1601049721
+/
+b3d77b0c.virtua.com.br
+0 26 26 90626 1 1600211535
+/
+201.83.30.27
+0 6 6 13703 0 0
+-
+petalbot-114-119-138-33.aspiegel.com
+0 1 0 21 0 0
+-
+fwdproxy-lla-008.fbsv.net
+0 1 1 5023 0 0
+-
+23-94-145-38-host.colocrossing.com
+0 1 1 14346 1 1600266223
+/
+ip-54-36-148-171.a.ahrefs.com
+0 1 1 14056 1 1599787798
+/caramico.htm
+189.46.112.34
+0 8 2 5393 1 1599941171
+/advogados.htm
+fwdproxy-atn-032.fbsv.net
+0 4 3 4798 0 0
+-
+msnbot-40-77-167-138.search.msn.com
+0 1 0 21 0 0
+-
+107-172-183-43-host.colocrossing.com
+0 1 1 14346 1 1600772565
+/
+msnbot-157-55-39-210.search.msn.com
+0 1 1 14346 1 1599483036
+/
+v340696.hosted-by-vdsina.ru
+0 1 1 14346 1 1601272352
+/
+ip-54-36-148-59.a.ahrefs.com
+0 1 1 14346 1 1599236445
+/
+msnbot-207-46-13-195.search.msn.com
+0 1 1 13642 1 1600954373
+/adv_alessandro.htm
+petalbot-114-119-140-236.aspiegel.com
+0 2 0 42 0 0
+-
+msnbot-207-46-13-35.search.msn.com
+0 1 1 2088 0 0
+-
+petalbot-114-119-147-97.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-143-host.colocrossing.com
+0 1 1 14346 1 1599766044
+/
+23-94-145-2-host.colocrossing.com
+0 1 1 14346 1 1600175189
+/
+192.71.12.140
+0 3 0 63 0 0
+-
+static.58.113.202.116.clients.your-server.de
+0 21 21 68400 0 0
+-
+223.171.73.34.bc.googleusercontent.com
+0 27 24 343899 2 1600302869
+/areas_atuacao_tribu.htm
+petalbot-114-119-146-211.aspiegel.com
+0 1 0 21 0 0
+-
+ip-54-36-148-32.a.ahrefs.com
+0 1 0 21 0 0
+-
+ip-54-36-149-64.a.ahrefs.com
+0 1 1 14415 0 0
+-
+petalbot-114-119-145-86.aspiegel.com
+0 1 0 21 0 0
+-
+static.237.157.216.95.clients.your-server.de
+0 41 39 628197 1 1601498279
+-
+petalbot-114-119-139-43.aspiegel.com
+0 1 0 21 0 0
+-
+93-158-161-2.spider.yandex.com
+0 1 0 21 0 0
+-
+host19-19-61-217.static.arubacloud.com
+0 1 0 21 1 1600836932
+-
+177-95-108-171.dsl.telesp.net.br
+0 97 96 397476 2 1601051326
+/
+107-172-183-170-host.colocrossing.com
+0 1 1 14346 1 1600070777
+/
+ec2-35-173-235-84.compute-1.amazonaws.com
+0 1 1 14346 1 1599182094
+/
+107-172-183-65-host.colocrossing.com
+0 1 1 14346 1 1598982469
+/
+petalbot-114-119-128-202.aspiegel.com
+0 1 0 21 0 0
+-
+msnbot-207-46-13-133.search.msn.com
+0 1 1 14346 1 1599026264
+/
+23-94-145-80-host.colocrossing.com
+0 1 0 21 0 0
+-
+77-88-5-212.spider.yandex.com
+0 6 6 86076 5 1601481446
+/
+msnbot-157-55-39-59.search.msn.com
+0 1 0 21 0 0
+-
+ip-54-36-148-211.a.ahrefs.com
+0 1 1 14346 1 1599316838
+/
+40.74.232.209
+0 1 0 249 0 0
+-
+8.235.75.34.bc.googleusercontent.com
+0 23 21 299339 2 1599045802
+/areas_atuacao_tribu.htm
+crawl-66-249-64-29.googlebot.com
+0 10 6 86160 7 1601186043
+-
+23-94-145-165-host.colocrossing.com
+0 1 1 14346 1 1599743005
+/
+47.75.161.114
+0 1 0 21 0 0
+-
+107-172-183-181-host.colocrossing.com
+0 1 1 14346 1 1601017282
+/
+23-94-145-202-host.colocrossing.com
+0 1 1 14346 1 1599811114
+/
+fwdproxy-atn-120.fbsv.net
+0 1 1 4247 0 0
+-
+107-172-183-76-host.colocrossing.com
+0 1 1 14346 1 1600699761
+/
+fwdproxy-frc-011.fbsv.net
+0 4 4 5834 0 0
+-
+112.173.75.34.bc.googleusercontent.com
+0 22 20 288765 4 1599630227
+/contato.htm
+23-94-145-91-host.colocrossing.com
+0 1 1 14346 1 1600693295
+/
+92.186.243.35.bc.googleusercontent.com
+0 46 41 588875 4 1601486125
+/areas_atuacao_tribu.htm
+136.216.196.35.bc.googleusercontent.com
+0 23 21 299339 2 1599410713
+/areas_atuacao_tribu.htm
+107-172-183-17-host.colocrossing.com
+0 1 1 14346 1 1599551106
+/
+ip-54-36-148-10.a.ahrefs.com
+0 1 1 14415 0 0
+-
+petalbot-114-119-130-136.aspiegel.com
+0 1 0 21 0 0
+-
+ns508912.ip-198-245-63.net
+0 1 0 21 1 1599344993
+-
+29.251.75.34.bc.googleusercontent.com
+0 24 22 315186 2 1600847570
+/areas_atuacao_tribu.htm
+petalbot-114-119-150-156.aspiegel.com
+0 1 0 21 0 0
+-
+69.25.58.53
+0 43 43 122846 1 1600593421
+/
+smtp33b.mxver.com
+0 1 1 14346 1 1599213181
+/
+77.41.237.35.bc.googleusercontent.com
+0 24 22 315186 1 1601204339
+/areas_atuacao_tribu.htm
+88.86.204.35.bc.googleusercontent.com
+0 2 2 7019 0 0
+-
+107-172-183-87-host.colocrossing.com
+0 1 1 14346 1 1599724642
+/
+petalbot-114-119-139-112.aspiegel.com
+0 1 0 21 0 0
+-
+ip-54-36-148-15.a.ahrefs.com
+0 1 1 14415 0 0
+-
+89.228.75.34.bc.googleusercontent.com
+0 23 21 301130 3 1599861354
+/areas_atuacao_tribu.htm
+ec2-34-215-182-173.us-west-2.compute.amazonaws.com
+0 2 1 14367 1 1600287111
+/
+ip-54-36-148-63.a.ahrefs.com
+0 1 1 13387 1 1599795691
+/areas_atuacao_trab.htm
+customer.clientshostname.com
+0 1 1 14346 1 1599387231
+/
+ip-54-36-148-132.a.ahrefs.com
+0 1 1 14346 1 1600805729
+/
+ec2-52-33-149-221.us-west-2.compute.amazonaws.com
+0 1 1 14346 1 1601239029
+/
+msnbot-207-46-13-31.search.msn.com
+0 2 0 42 0 0
+-
+192.36.71.133
+0 2 0 42 0 0
+-
+ec2-54-191-18-138.us-west-2.compute.amazonaws.com
+0 1 1 14346 1 1600224782
+/
+ip-54-36-148-180.a.ahrefs.com
+0 1 1 14415 0 0
+-
+93-158-161-51.spider.yandex.com
+0 2 1 14367 1 1601290428
+/
+23-94-145-187-host.colocrossing.com
+0 1 1 14346 1 1598963400
+/
+35.196.216.136
+0 1 1 3256 1 1599410547
+/links.htm
+107-172-183-144-host.colocrossing.com
+0 1 1 14346 1 1599048342
+/
+ip-54-36-148-68.a.ahrefs.com
+0 1 1 23975 0 0
+-
+ip-54-36-149-100.a.ahrefs.com
+0 1 1 14415 0 0
+-
+petalbot-114-119-141-103.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-54-host.colocrossing.com
+0 1 1 14346 1 1600118555
+/
+ip-54-36-149-1.a.ahrefs.com
+0 1 1 13642 1 1599694655
+/adv_alessandro.htm
+31.13.115.3
+0 1 1 15044 0 0
+-
+130.39.75.34.bc.googleusercontent.com
+0 22 22 315144 2 1599382602
+/areas_atuacao_tribu.htm
+232-247-15-51.instances.scw.cloud
+0 1 1 14346 1 1600438123
+/
+185.81.157.128
+0 2 0 42 1 1600959456
+/
+93-158-161-62.spider.yandex.com
+0 1 0 21 0 0
+-
+179-97-151-129.dsl.telesp.net.br
+0 44 43 106998 0 0
+-
+p3nlwpweb107.shr.prod.phx3.secureserver.net
+0 2 0 42 0 0
+-
+77-88-5-73.spider.yandex.com
+0 1 0 21 0 0
+-
+77-88-5-150.spider.yandex.com
+0 2 1 14367 1 1599821836
+/
+187-10-227-210.dsl.telesp.net.br
+0 59 58 187207 2 1598960619
+/caramico.htm
+msnbot-40-77-167-19.search.msn.com
+0 2 2 34034 1 1601460733
+/links.htm
+bzq-82-80-249-163.dcenter.bezeqint.net
+0 7 7 25153 0 0
+-
+ip-54-36-148-41.a.ahrefs.com
+0 1 1 14175 1 1599093226
+/advogados.htm
+a2nlwpweb059.prod.iad2.secureserver.net
+0 1 0 21 0 0
+-
+35.243.167.192
+0 1 1 3123 1 1599788399
+/caramico.htm
+p3nlhg1433.shr.prod.phx3.secureserver.net
+0 1 0 21 0 0
+-
+p3plcpnl0865.prod.phx3.secureserver.net
+0 1 1 14346 1 1599598962
+/
+107-172-183-11-host.colocrossing.com
+0 1 1 14346 1 1599582000
+/
+187-121-118-152.res.ajato.com.br
+0 44 43 122867 1 1600869240
+/
+static.88-198-158-233.clients.your-server.de
+0 39 36 598132 1 1600511933
+-
+p3e9d40f5.dip0.t-ipconnect.de
+0 1 0 21 0 0
+-
+b1218b39.virtua.com.br
+0 57 56 169686 1 1601485589
+/advogados.htm
+52.242.32.86
+0 2 1 14367 1 1599560452
+/
+179.173.220.177.rfc6598.dynamic.copelfibra.com.br
+0 2 2 28692 2 1601489634
+/
+msnbot-157-55-39-64.search.msn.com
+0 4 4 56348 4 1599571727
+/advogados.htm
+189-112-249-089.static.ctbcnetsuper.com.br
+0 25 24 70340 1 1600081695
+/
+23-94-145-17-host.colocrossing.com
+0 1 1 14346 1 1599734717
+/
+23-94-145-170-host.colocrossing.com
+0 1 0 21 0 0
+-
+164.157.190.35.bc.googleusercontent.com
+0 4 2 28734 1 1601316652
+/
+201-1-169-231.dsl.telesp.net.br
+0 44 43 122867 1 1599818706
+/
+35.227.43.99
+0 1 1 3123 1 1599094406
+/caramico.htm
+236.187.75.34.bc.googleusercontent.com
+0 4 2 28734 1 1600194161
+/
+77-88-5-95.spider.yandex.com
+0 1 1 14346 1 1599633519
+/
+msnbot-157-55-39-187.search.msn.com
+0 1 1 2262 0 0
+-
+msnbot-40-77-167-37.search.msn.com
+0 3 3 71925 0 0
+-
+ninja-crawler41.webmeup.com
+0 19 15 215247 2 1599517926
+/links.htm
+107-172-183-214-host.colocrossing.com
+0 1 1 14346 1 1599563629
+/
+ip-54-36-148-99.a.ahrefs.com
+0 1 1 14415 0 0
+-
+107-172-183-118-host.colocrossing.com
+0 1 1 14346 1 1600717703
+/
+40.94.28.43
+0 8 8 23309 0 0
+-
+236.159.196.104.bc.googleusercontent.com
+0 4 2 28734 1 1599359065
+/
+crawl2-33.oi.tb.007ac9.net
+0 1 1 27580 0 0
+-
+170.80.70.187.newgrouptelecom.com.br
+0 1 1 14346 1 1599466896
+/
+107-172-183-33-host.colocrossing.com
+0 2 2 28692 2 1600958668
+/
+static.234.21.4.46.clients.your-server.de
+0 1 1 14346 1 1601271753
+/
+msnbot-157-55-39-196.search.msn.com
+0 1 1 2262 0 0
+-
+121.91.229.35.bc.googleusercontent.com
+0 8 4 57468 2 1599494457
+/
+ip-54-36-149-56.a.ahrefs.com
+0 1 0 21 0 0
+-
+107-172-183-129-host.colocrossing.com
+0 1 1 14346 1 1600096581
+/
+34.60.75.34.bc.googleusercontent.com
+0 23 21 301531 3 1600986115
+/areas_atuacao_tribu.htm
+petalbot-114-119-156-140.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-39-host.colocrossing.com
+0 1 1 14346 1 1600286026
+/
+crawl-66-249-64-77.googlebot.com
+0 3 1 14388 1 1598940882
+/
+petalbot-114-119-162-170.aspiegel.com
+0 1 0 21 0 0
+-
+40.94.28.58
+0 7 7 26664 0 0
+-
+191.232.161.142
+0 16 3 43311 2 1599529009
+/
+23-94-145-133-host.colocrossing.com
+0 1 1 14346 1 1600700544
+/
+ec2-34-212-201-207.us-west-2.compute.amazonaws.com
+0 1 1 14346 1 1601324686
+/
+petalbot-114-119-129-237.aspiegel.com
+0 1 0 21 0 0
+-
+175.165.73.34.bc.googleusercontent.com
+0 23 21 301130 2 1601074637
+/areas_atuacao_tribu.htm
+189.115.189.219.static.host.gvt.net.br
+0 91 90 321234 2 1599639112
+/advogados.htm
+77-88-5-56.spider.yandex.com
+0 2 1 14367 1 1599159917
+/
+ip-54-36-148-203.a.ahrefs.com
+0 1 0 21 1 1600516974
+-
+107-172-183-236-host.colocrossing.com
+0 1 1 14346 1 1601303250
+/
+40.94.28.60
+0 7 7 14854 0 0
+-
+185.81.157.177
+0 2 0 42 0 0
+-
+40.94.28.61
+0 2 1 1027 0 0
+-
+ec2-34-222-216-153.us-west-2.compute.amazonaws.com
+0 1 1 14346 1 1601496980
+/
+ec2-3-235-5-71.compute-1.amazonaws.com
+0 4 2 27422 1 1600426338
+/areas_atuacao_tribu.htm
+ec2-35-165-157-16.us-west-2.compute.amazonaws.com
+0 1 1 14346 1 1600222224
+/
+34.75.173.112
+0 2 2 5231 1 1599630362
+/areas_atuacao_tribu.htm
+ip-54-36-148-208.a.ahrefs.com
+0 1 1 15397 0 0
+-
+17-58-97-161.applebot.apple.com
+0 9 8 113785 6 1601289239
+/adv_camila.htm
+23-94-145-11-host.colocrossing.com
+0 1 1 14346 1 1600186463
+/
+bot.semrush.com
+0 6 3 44791 2 1601387385
+/links.htm
+ip-54-36-149-82.a.ahrefs.com
+0 1 0 21 0 0
+-
+45.154.75.34.bc.googleusercontent.com
+0 21 20 286113 3 1598921361
+/areas_atuacao_tribu.htm
+msnbot-157-55-39-60.search.msn.com
+0 2 0 42 0 0
+-
+petalbot-114-119-139-61.aspiegel.com
+0 1 0 21 0 0
+-
+n3nlwpweb036.prod.ams3.secureserver.net
+0 1 0 21 0 0
+-
+23-94-145-251-host.colocrossing.com
+0 2 1 14367 1 1600170498
+/
+scanner3.ispsystem.net
+0 1 1 14346 1 1601474295
+/
+23-94-145-81-host.colocrossing.com
+0 1 1 14346 1 1600160089
+/
+192.71.42.108
+0 1 0 21 0 0
+-
+petalbot-114-119-157-166.aspiegel.com
+0 1 0 21 0 0
+-
+crawl-66-249-64-81.googlebot.com
+0 1 1 14346 1 1599099126
+/
+petalbot-114-119-139-66.aspiegel.com
+0 1 0 21 0 0
+-
+192.36.70.176
+0 2 2 28692 2 1600589387
+/
+ip-54-36-148-172.a.ahrefs.com
+0 1 1 14415 0 0
+-
+187.10.227.210
+0 4 4 10203 0 0
+-
+40.94.31.12
+0 5 5 16734 0 0
+-
+107-172-183-182-host.colocrossing.com
+0 1 1 14346 1 1600771222
+/
+msnbot-157-55-39-213.search.msn.com
+0 5 5 72333 3 1600083690
+/adv_thais.htm
+40.94.31.16
+0 5 5 11148 0 0
+-
+107-172-183-77-host.colocrossing.com
+0 2 2 28692 2 1600100456
+/
+ip-54-36-148-129.a.ahrefs.com
+0 1 0 21 0 0
+-
+23-94-145-92-host.colocrossing.com
+0 1 1 14346 1 1599735043
+/
+107-172-183-123-host.colocrossing.com
+0 1 1 14346 1 1601402120
+/
+129.146.173.28
+0 2 1 14367 1 1600421621
+/
+ip-54-36-149-12.a.ahrefs.com
+0 1 0 21 0 0
+-
+31.13.115.18
+0 1 1 2978 0 0
+-
+191.162.255.73
+0 6 5 10360 1 1599734660
+/adv_gustavo.htm
+ip-54-36-148-177.a.ahrefs.com
+0 1 0 21 0 0
+-
+petalbot-114-119-130-154.aspiegel.com
+0 1 0 21 0 0
+-
+91-121-150-229.serverhub.ru
+0 1 1 14346 1 1600493633
+/
+crawl-66-249-64-37.googlebot.com
+0 22 19 241007 14 1600251818
+/links.htm
+fwdproxy-lla-010.fbsv.net
+0 1 1 7005 0 0
+-
+45.95.20.128
+0 1 1 14346 1 1600637898
+/
+23-94-145-177-host.colocrossing.com
+0 1 1 14346 1 1599754308
+/
+petalbot-114-119-149-108.aspiegel.com
+0 1 0 21 0 0
+-
+31.13.115.20
+0 1 1 4465 0 0
+-
+23-94-145-118-host.colocrossing.com
+0 1 1 14346 1 1600970902
+/
+107-172-183-88-host.colocrossing.com
+0 1 1 14346 1 1600275492
+/
+103.38.196.35.bc.googleusercontent.com
+0 32 24 346333 5 1601063302
+/
+ns3134401.ip-51-77-64.eu
+0 1 1 14346 1 1599198114
+/
+103.249.89.37
+0 1 1 14346 1 1601417183
+/
+petalbot-114-119-131-92.aspiegel.com
+0 1 0 21 0 0
+-
+msnbot-207-46-13-87.search.msn.com
+0 1 1 14346 1 1600415796
+/
+192.71.30.89
+0 3 1 14388 1 1601152301
+/
+fwdproxy-lla-120.fbsv.net
+0 1 1 2088 0 0
+-
+23-94-145-188-host.colocrossing.com
+0 1 1 14346 1 1600776419
+/
+23-94-145-129-host.colocrossing.com
+0 2 2 28692 2 1600966700
+/
+ip-54-36-148-38.a.ahrefs.com
+0 1 1 12222 1 1600820184
+/contato.htm
+petalbot-114-119-145-117.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-55-host.colocrossing.com
+0 1 1 14346 1 1599811105
+/
+mvx-177-92-78-14.mundivox.com
+0 45 44 123949 1 1600858976
+/
+242.37.89.34.bc.googleusercontent.com
+0 1 0 21 0 0
+-
+ip114.ip-54-39-216.net
+0 2 0 42 0 0
+-
+40.94.31.41
+0 5 5 13764 0 0
+-
+107-172-183-60-host.colocrossing.com
+0 1 1 14346 1 1598948338
+/
+40.94.31.46
+0 5 5 20805 0 0
+-
+static.170.160.202.116.clients.your-server.de
+0 92 92 209899 0 0
+-
+msnbot-207-46-13-145.search.msn.com
+0 2 2 29366 1 1600616788
+/adv_andrea.htm
+c9531e1b.virtua.com.br
+0 56 55 186679 1 1599736247
+/areas_atuacao_trab.htm
+bzq-82-80-249-157.dcenter.bezeqint.net
+0 4 4 7341 0 0
+-
+petalbot-114-119-158-165.aspiegel.com
+0 1 0 21 0 0
+-
+petalbot-114-119-146-133.aspiegel.com
+0 1 0 21 0 0
+-
+ip-187-119-231-240.user.vivozap.com.br
+0 28 28 49137 0 0
+-
+msnbot-207-46-13-65.search.msn.com
+0 1 1 14346 1 1599979092
+/
+ip-54-36-149-91.a.ahrefs.com
+0 1 1 14346 1 1599891877
+/
+23-94-145-160-host.colocrossing.com
+0 1 1 14346 1 1601037047
+/
+93-158-161-30.spider.yandex.com
+0 4 3 43059 3 1601066912
+/
+msnbot-207-46-13-215.search.msn.com
+0 7 0 147 0 0
+-
+66.115.173.18
+0 1 0 21 0 0
+-
+40.94.31.58
+0 2 2 18593 1 1600876368
+/
+crawl-dev-3.babbar.eu
+0 72 62 928141 18 1600820729
+/
+191.96.26.127
+0 1 1 14346 1 1601268904
+/
+petalbot-114-119-132-7.aspiegel.com
+0 1 0 21 0 0
+-
+107-172-183-167-host.colocrossing.com
+0 2 1 14367 1 1599660559
+/
+ec2-52-53-173-203.us-west-1.compute.amazonaws.com
+0 1 0 21 0 0
+-
+petalbot-114-119-130-43.aspiegel.com
+0 1 0 21 0 0
+-
+107-172-183-204-host.colocrossing.com
+0 1 1 14346 1 1599559699
+/
+ec2-18-217-154-123.us-east-2.compute.amazonaws.com
+0 6 4 57426 1 1601248364
+/
+msnbot-207-46-13-34.search.msn.com
+0 1 1 13642 1 1599164710
+/adv_alessandro.htm
+petalbot-114-119-164-92.aspiegel.com
+0 1 0 21 0 0
+-
+ec2-18-210-7-206.compute-1.amazonaws.com
+0 4 3 42859 1 1600252316
+/areas_atuacao.htm
+23-94-145-18-host.colocrossing.com
+0 1 1 14346 1 1601043588
+/
+93-158-161-41.spider.yandex.com
+0 3 1 14388 1 1601066905
+/
+fwdproxy-atn-034.fbsv.net
+0 10 10 22953 0 0
+-
+msnbot-40-77-167-106.search.msn.com
+0 2 2 14800 1 1600277128
+/advogados.htm
+194.112.197.104.bc.googleusercontent.com
+0 4 2 28734 2 1599843273
+/
+187.63.95.222
+0 68 67 223536 1 1600361463
+/adv_gustavo.htm
+power181-202.powerline.com.br
+0 2 2 28692 2 1600678496
+/
+107-172-183-178-host.colocrossing.com
+0 1 1 14346 1 1601280385
+/
+ip-54-36-148-69.a.ahrefs.com
+0 1 1 14346 1 1601054677
+/
+ip-54-36-148-138.a.ahrefs.com
+0 1 1 14415 0 0
+-
+192.36.207.54
+0 1 1 14346 1 1601296841
+/
+ip-54-36-149-101.a.ahrefs.com
+0 1 0 21 0 0
+-
+35.237.7.89
+0 1 0 21 0 0
+-
+191.63.250.179.isp.timbrasil.com.br
+0 45 44 96949 1 1598955505
+/adv_marcelo.htm
+107-172-183-119-host.colocrossing.com
+0 1 1 14346 1 1601447908
+/
+ip-54-36-148-186.a.ahrefs.com
+0 1 1 14175 1 1600827906
+/advogados.htm
+23-94-145-29-host.colocrossing.com
+0 2 2 28692 2 1600415060
+/
+wholesalingamerica.com
+0 1 1 14346 1 1599263320
+/
+23-94-145-182-host.colocrossing.com
+0 1 1 14346 1 1599823869
+/
+dsl.49.149.102.182.pldt.net
+0 4 2 46492 0 0
+-
+23-94-145-123-host.colocrossing.com
+0 1 0 21 0 0
+-
+msnbot-207-46-13-5.search.msn.com
+0 2 2 29366 2 1600705707
+/adv_andrea.htm
+159.203.40.244
+0 2 2 25752 1 1599811605
+/
+googlecom4.static.host.gvt.net.br
+0 43 43 122846 1 1599657572
+/
+107-172-183-34-host.colocrossing.com
+0 2 2 28692 2 1599730198
+/
+ip-54-36-149-106.a.ahrefs.com
+0 1 1 29062 0 0
+-
+ip-54-36-148-248.a.ahrefs.com
+0 1 0 21 0 0
+-
+161.35.107.95
+0 1 0 21 0 0
+-
+23-94-145-99-host.colocrossing.com
+0 1 0 21 0 0
+-
+msnbot-207-46-13-52.search.msn.com
+0 2 2 14800 1 1599844315
+/advogados.htm
+23-94-145-193-host.colocrossing.com
+0 1 1 14346 1 1601471335
+/
+40.94.31.82
+0 5 5 13856 0 0
+-
+170-82-205-58.internetup.com.br
+0 1 1 14346 1 1600336365
+/
+216.200.74.34.bc.googleusercontent.com
+0 24 22 315186 2 1599740875
+/areas_atuacao_tribu.htm
+23-94-145-230-host.colocrossing.com
+0 1 1 14346 1 1600364379
+/
+23-94-145-134-host.colocrossing.com
+0 1 1 14346 1 1600329269
+/
+128-092-193-202.biz.spectrum.com
+0 1 1 14346 1 1601367008
+/
+107-172-183-45-host.colocrossing.com
+0 1 1 14346 1 1600261755
+/
+199-47-87-144.ip87.iparadigms.net
+0 3 1 1586 0 0
+-
+ip-54-36-149-79.a.ahrefs.com
+0 1 1 13652 1 1599718623
+/adv_anna.htm
+petalbot-114-119-148-175.aspiegel.com
+0 1 0 21 0 0
+-
+msnbot-157-55-39-67.search.msn.com
+0 2 2 27310 2 1599197049
+/adv_gustavo.htm
+82.165.167.167
+0 15 0 315 0 0
+-
+a2plcpnl0479.prod.iad2.secureserver.net
+0 1 0 21 0 0
+-
+184.94.240.92
+0 1 1 14346 1 1600500961
+/
+23-94-145-241-host.colocrossing.com
+0 2 2 28692 2 1600709213
+/
+23-94-145-4-host.colocrossing.com
+0 1 1 14346 1 1600419662
+/
+msnbot-207-46-13-211.search.msn.com
+0 3 0 63 0 0
+-
+144.168.162.250
+0 1 1 14346 1 1599563840
+/
+ip-54-36-148-226.a.ahrefs.com
+0 1 1 13655 1 1599932840
+/adv_gustavo.htm
+91.241.19.182
+0 1 1 14346 1 1599554519
+/
+msnbot-207-46-13-190.search.msn.com
+0 1 1 14175 1 1600799388
+/advogados.htm
+petalbot-114-119-131-189.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-12-host.colocrossing.com
+0 1 1 14346 1 1599731444
+/
+petalbot-114-119-150-223.aspiegel.com
+0 1 0 21 0 0
+-
+petalbot-114-119-130-251.aspiegel.com
+0 1 0 21 0 0
+-
+host.coloup.com
+0 164 141 2023269 106 1601492989
+/
+236.19.75.34.bc.googleusercontent.com
+0 24 22 315186 2 1600224940
+/areas_atuacao_tribu.htm
+cloudwebx22.newtekwebhosting.com
+0 1 0 21 0 0
+-
+189-110-167-244.dsl.telesp.net.br
+0 1 1 5242 0 0
+-
+70.42.185.35.bc.googleusercontent.com
+0 23 22 315165 3 1599729640
+/areas_atuacao_tribu.htm
+hosted-by.vonline.vn
+0 35 0 735 0 0
+-
+uberdesconto6.diadoentregadobrasil.com
+0 15 2 28965 2 1601035421
+-
+107-172-183-172-host.colocrossing.com
+0 1 1 14346 1 1599578887
+/
+bzq-82-80-249-204.dcenter.bezeqint.net
+0 7 7 10251 0 0
+-
+petalbot-114-119-129-233.aspiegel.com
+0 1 0 21 0 0
+-
+static.77.50.251.148.clients.your-server.de
+0 1 1 27580 0 0
+-
+ip-54-36-148-25.a.ahrefs.com
+0 1 1 13034 1 1599799034
+/areas_atuacao_tribu.htm
+msnbot-13-66-139-1.search.msn.com
+0 2 0 42 0 0
+-
+107-172-183-113-host.colocrossing.com
+0 1 1 14346 1 1600689470
+/
+petalbot-114-119-132-68.aspiegel.com
+0 1 0 21 0 0
+-
+ip-54-36-149-57.a.ahrefs.com
+0 1 0 21 0 0
+-
+90.87.229.35.bc.googleusercontent.com
+0 4 2 28734 1 1599683276
+/
+38.67.74.34.bc.googleusercontent.com
+0 24 22 315186 2 1600023332
+/areas_atuacao_tribu.htm
+23-94-145-23-host.colocrossing.com
+0 1 1 14346 1 1600976502
+/
+petalbot-114-119-130-199.aspiegel.com
+0 1 0 21 0 0
+-
+petalbot-114-119-152-177.aspiegel.com
+0 1 0 21 0 0
+-
+ec2-54-202-149-100.us-west-2.compute.amazonaws.com
+0 1 1 14346 1 1601067338
+/
+40.94.28.100
+0 1 0 21 0 0
+-
+144.165.74.34.bc.googleusercontent.com
+0 8 4 57468 2 1599922023
+/
+107-172-183-78-host.colocrossing.com
+0 1 0 21 0 0
+-
+ip-54-36-148-6.a.ahrefs.com
+0 1 1 13387 1 1600793759
+/areas_atuacao_trab.htm
+petalbot-114-119-156-146.aspiegel.com
+0 1 0 21 0 0
+-
+ip-54-36-148-147.a.ahrefs.com
+0 1 0 21 0 0
+-
+ip-54-36-148-252.a.ahrefs.com
+0 1 1 18672 0 0
+-
+ip-54-36-148-195.a.ahrefs.com
+0 1 1 14056 1 1599953687
+/caramico.htm
+b5d56745.virtua.com.br
+0 2 2 28692 2 1599972527
+/
+crawl-66-249-64-34.googlebot.com
+0 29 22 275435 16 1600111272
+/
+petalbot-114-119-128-62.aspiegel.com
+0 1 0 21 0 0
+-
+50.141.74.34.bc.googleusercontent.com
+0 4 2 28734 1 1600712489
+/
+crawl-66-249-70-37.googlebot.com
+0 76 64 697726 37 1601490732
+/
+107-172-183-194-host.colocrossing.com
+0 1 1 14346 1 1599487290
+/
+23-94-145-119-host.colocrossing.com
+0 1 1 14346 1 1600974069
+/
+107-172-183-231-host.colocrossing.com
+0 2 2 28692 2 1600333215
+/
+92.93.74.34.bc.googleusercontent.com
+0 4 2 28734 1 1599703379
+/
+petalbot-114-119-131-14.aspiegel.com
+0 1 0 21 0 0
+-
+petalbot-114-119-158-157.aspiegel.com
+0 1 0 21 0 0
+-
+17-58-97-160.applebot.apple.com
+0 4 2 27723 1 1600597969
+/areas_atuacao.htm
+23-94-145-45-host.colocrossing.com
+0 1 1 14346 1 1598955888
+/
+52.168.77.86
+0 1 0 21 0 0
+-
+google-proxy-64-233-173-68.google.com
+0 1 1 5620 0 0
+-
+crawl-66-249-64-45.googlebot.com
+0 10 9 129135 9 1600165630
+/
+52.231.201.128
+0 1 0 21 0 0
+-
+18.163.84.170.ampernet.com.br
+0 26 26 90626 1 1600853315
+/
+23-94-145-226-host.colocrossing.com
+0 1 1 14346 1 1600105845
+/
+107-172-183-146-host.colocrossing.com
+0 1 1 14346 1 1600717699
+/
+ip-54-36-148-125.a.ahrefs.com
+0 1 1 13266 1 1599770731
+/areas_atuacao.htm
+toad8.sketchengine.eu
+0 24 22 398572 1 1601122378
+/adv_alessandro.htm
+35.243.186.92
+0 1 1 3123 1 1599945178
+/caramico.htm
+93-158-161-68.spider.yandex.com
+0 3 1 14388 1 1600549960
+/
+107-172-183-253-host.colocrossing.com
+0 1 1 14346 1 1600264854
+/
+51-159-30-87.rev.poneytelecom.eu
+0 1 1 14346 1 1599055573
+/
+87.106.205.116
+0 1 1 14346 1 1600253796
+/
+95.182.126.190
+0 1 1 14346 1 1601066391
+/
+64.227.108.78
+0 1 0 21 0 0
+-
+petalbot-114-119-144-51.aspiegel.com
+0 1 0 21 0 0
+-
+msnbot-157-55-39-41.search.msn.com
+0 7 0 147 0 0
+-
+200-232-163-157.dsl.telesp.net.br
+0 82 81 236806 2 1600080911
+/contato.htm
+23-94-145-161-host.colocrossing.com
+0 2 2 28692 2 1600687375
+/
+192.243.53.51
+0 2 2 28692 1 1601387375
+/
+fwdproxy-atn-035.fbsv.net
+0 7 7 22069 0 0
+-
+23-94-145-102-host.colocrossing.com
+0 1 1 14346 1 1601371600
+/
+static.120.90.46.78.clients.your-server.de
+0 1 1 14499 1 1601147644
+/adv_marcelo.htm
+165.128.50.177.isp.timbrasil.com.br
+0 45 44 96949 1 1600967988
+/adv_marcelo.htm
+173.252.95.24
+0 2 2 6324 0 0
+-
+205.169.39.64
+0 44 44 137192 1 1600588790
+/
+107-172-183-13-host.colocrossing.com
+0 1 1 14346 1 1600930858
+/
+vps73424.serveur-vps.net
+0 15 2 28965 1 1601119476
+/
+bzq-82-80-249-164.dcenter.bezeqint.net
+0 5 5 9533 0 0
+-
+ec2-3-235-137-159.compute-1.amazonaws.com
+0 2 1 14367 1 1600228062
+/
+107-172-183-205-host.colocrossing.com
+0 1 1 14346 1 1599819107
+/
+107-172-183-109-host.colocrossing.com
+0 1 0 21 0 0
+-
+msnbot-157-55-39-10.search.msn.com
+0 1 1 14683 1 1600347880
+/adv_andrea.htm
+c94a0821.virtua.com.br
+0 49 48 131924 1 1600868284
+/
+64.71.131.243
+0 43 43 122846 1 1601111636
+/
+147.175.73.34.bc.googleusercontent.com
+0 24 22 315186 2 1601247501
+/areas_atuacao_tribu.htm
+64.71.131.244
+0 2 1 14367 1 1601232750
+/
+107-172-183-83-host.colocrossing.com
+0 2 1 14367 1 1600087730
+/
+static.98.118.217.95.clients.your-server.de
+0 14 14 200817 1 1599304487
+/areas_atuacao_trab.htm
+173.252.95.32
+0 1 1 1252 0 0
+-
+ec2-3-216-93-96.compute-1.amazonaws.com
+0 9 8 114755 1 1600262070
+/contato.htm
+petalbot-114-119-130-18.aspiegel.com
+0 1 0 21 0 0
+-
+173.252.95.34
+0 1 1 2978 0 0
+-
+66.42.42.3.vultr.com
+0 2 1 14367 1 1600930724
+/
+p3nlhg587.shr.prod.phx3.secureserver.net
+0 1 0 21 0 0
+-
+petalbot-114-119-143-77.aspiegel.com
+0 1 0 21 0 0
+-
+77-88-5-117.spider.yandex.com
+0 1 1 14346 1 1600689192
+/
+ec2-18-237-68-147.us-west-2.compute.amazonaws.com
+0 1 1 14346 1 1600589032
+/
+23-94-145-220-host.colocrossing.com
+0 1 1 14346 1 1600933251
+/
+hosted-by.rootlayer.net
+0 4 4 57384 4 1601473786
+/
+107-172-183-140-host.colocrossing.com
+0 1 0 21 0 0
+-
+192.71.23.211
+0 3 0 63 0 0
+-
+23-94-145-50-host.colocrossing.com
+0 1 0 21 0 0
+-
+ip-54-36-148-12.a.ahrefs.com
+0 1 0 21 0 0
+-
+petalbot-114-119-138-251.aspiegel.com
+0 1 0 21 0 0
+-
+189.121.104.159
+0 89 87 210178 1 1599059373
+/contato.htm
+23-94-145-194-host.colocrossing.com
+0 1 1 14346 1 1600284730
+/
+23-94-145-135-host.colocrossing.com
+0 1 1 14346 1 1599139778
+/
+207.102.138.19
+0 36 36 107397 1 1601043769
+/
+petalbot-114-119-134-107.aspiegel.com
+0 1 0 21 0 0
+-
+petalbot-114-119-157-128.aspiegel.com
+0 1 0 21 0 0
+-
+static.218.237.202.116.clients.your-server.de
+0 1 0 21 1 1599499899
+-
+ip-54-36-149-49.a.ahrefs.com
+0 1 1 14415 0 0
+-
+static.36.177.251.148.clients.your-server.de
+0 1 1 14346 1 1600387440
+/
+petalbot-114-119-132-149.aspiegel.com
+0 1 0 21 0 0
+-
+petalbot-114-119-134-212.aspiegel.com
+0 1 0 21 0 0
+-
+34.75.228.89
+0 1 1 3123 1 1599861182
+/caramico.htm
+77-88-5-214.spider.yandex.com
+0 1 1 14346 1 1600342474
+/
+fwdproxy-lla-019.fbsv.net
+0 1 1 5139 0 0
+-
+99.242.73.34.bc.googleusercontent.com
+0 24 22 315186 1 1599048458
+/areas_atuacao_tribu.htm
+crawl-66-249-64-27.googlebot.com
+0 15 12 172215 10 1601411039
+/
+23-94-145-242-host.colocrossing.com
+0 2 2 28692 2 1601310361
+/
+crawl2-71.oi.tb.007ac9.net
+0 43 43 115885 0 0
+-
+b150ed7c.virtua.com.br
+0 26 24 87966 1 1600085365
+/
+107-172-183-162-host.colocrossing.com
+0 1 1 14346 1 1600191079
+/
+hosting.from.limeisp.com
+0 1 1 12222 1 1600790104
+/contato.htm
+167.71.144.54
+0 1 1 14346 1 1599968530
+/
+107-172-183-57-host.colocrossing.com
+0 1 0 21 0 0
+-
+77-88-5-225.spider.yandex.com
+0 1 1 14346 1 1601481452
+/
+107-172-183-249-host.colocrossing.com
+0 1 1 14346 1 1600091836
+/
+ip-54-36-148-244.a.ahrefs.com
+0 1 1 20160 0 0
+-
+23-94-145-13-host.colocrossing.com
+0 1 1 14346 1 1601043596
+/
+ns386563.ip-176-31-244.eu
+0 2 1 14367 1 1600518952
+/
+189.38.114.70
+0 24 24 86602 1 1600348413
+/
+17-58-100-82.applebot.apple.com
+0 11 0 231 0 0
+-
+93-158-161-42.spider.yandex.com
+0 4 1 14409 1 1599633520
+/
+crawl-66-249-64-38.googlebot.com
+0 19 15 209390 9 1600204916
+/
+23-94-145-157-host.colocrossing.com
+0 1 1 14346 1 1600342037
+/
+static.24.245.202.116.clients.your-server.de
+0 2 2 10802 0 0
+-
+107-172-183-173-host.colocrossing.com
+0 1 1 14346 1 1601458446
+/
+ip-54-36-149-27.a.ahrefs.com
+0 1 1 18187 0 0
+-
+msnbot-40-77-167-198.search.msn.com
+0 2 2 15829 1 1601483302
+/adv_camila.htm
+179-100-50-254.user.vivozap.com.br
+0 148 146 418153 3 1600153609
+/contato.htm
+ip-54-36-148-249.a.ahrefs.com
+0 1 0 21 0 0
+-
+petalbot-114-119-153-247.aspiegel.com
+0 1 0 21 0 0
+-
+206.189.73.94
+0 1 1 14346 1 1600084558
+/
+ip-54-36-148-43.a.ahrefs.com
+0 1 0 21 0 0
+-
+petalbot-114-119-140-115.aspiegel.com
+0 1 0 21 0 0
+-
+ip-54-36-148-112.a.ahrefs.com
+0 1 0 21 0 0
+-
+petalbot-114-119-130-169.aspiegel.com
+0 1 0 21 0 0
+-
+35.185.42.70
+0 1 0 21 0 0
+-
+a2nlwpweb205.prod.iad2.secureserver.net
+0 1 0 21 0 0
+-
+208-87-233-140.mailcontrol.com
+0 1 1 14346 1 1600585167
+/
+ip-54-36-148-160.a.ahrefs.com
+0 1 0 21 0 0
+-
+209.239.178.107.gae.googleusercontent.com
+0 1 0 21 0 0
+-
+93-158-161-53.spider.yandex.com
+0 1 0 21 0 0
+-
+crawl-66-249-64-49.googlebot.com
+0 8 4 57468 4 1600248606
+/
+fwdproxy-atn-021.fbsv.net
+0 1 0 21 0 0
+-
+77-88-5-141.spider.yandex.com
+0 1 0 21 0 0
+-
+bd05e777.virtua.com.br
+0 86 85 245486 1 1599204951
+/
+23-94-145-109-host.colocrossing.com
+0 1 1 14346 1 1601462394
+/
+msnbot-40-77-167-167.search.msn.com
+0 1 1 14415 0 0
+-
+petalbot-114-119-129-199.aspiegel.com
+0 1 0 21 0 0
+-
+62-210-83-78.rev.poneytelecom.eu
+0 1 1 14346 1 1600927933
+/
+35.196.38.103
+0 2 2 5369 1 1599277900
+/areas_atuacao_trab.htm
+23-94-145-94-host.colocrossing.com
+0 1 1 14346 1 1600246488
+/
+ec2-34-207-230-149.compute-1.amazonaws.com
+0 1 1 14346 1 1600379282
+/
+petalbot-114-119-150-114.aspiegel.com
+0 1 0 21 0 0
+-
+petalbot-114-119-154-81.aspiegel.com
+0 1 0 21 0 0
+-
+crawl-66-249-70-34.googlebot.com
+0 85 72 879607 55 1601410163
+/
+msnbot-207-46-13-214.search.msn.com
+0 1 0 21 0 0
+-
+static.42.181.40.188.clients.your-server.de
+0 2 1 19395 0 0
+-
+23-94-145-216-host.colocrossing.com
+0 1 1 14346 1 1600696084
+/
+107-172-183-195-host.colocrossing.com
+0 1 1 14346 1 1600671675
+/
+104.222.43.71
+0 1 1 14346 1 1600772577
+/
+107-172-183-232-host.colocrossing.com
+0 2 1 14367 1 1601476245
+/
+168.50.227.35.bc.googleusercontent.com
+0 23 21 301799 2 1600346463
+/areas_atuacao_tribu.htm
+petalbot-114-119-138-155.aspiegel.com
+0 1 0 21 0 0
+-
+189.62.45.0
+0 1 1 13652 1 1600339660
+/adv_anna.htm
+static.150.83.4.46.clients.your-server.de
+0 3 3 48834 2 1600591273
+/adv_marcelo.htm
+107-172-183-136-host.colocrossing.com
+0 1 1 14346 1 1599562890
+/
+40.89.146.122
+0 17 3 43332 1 1600534282
+/
+petalbot-114-119-142-179.aspiegel.com
+0 1 0 21 0 0
+-
+ip-54-36-149-53.a.ahrefs.com
+0 1 1 14415 0 0
+-
+23-94-145-46-host.colocrossing.com
+0 3 2 28713 2 1599832662
+/
+ec2-35-166-124-184.us-west-2.compute.amazonaws.com
+0 1 1 14346 1 1601119750
+/
+n3nlwpweb027.prod.ams3.secureserver.net
+0 1 0 21 0 0
+-
+23-94-145-140-host.colocrossing.com
+0 1 0 21 0 0
+-
+107-172-183-147-host.colocrossing.com
+0 1 1 14346 1 1599238860
+/
+186.202.173.147
+0 29 29 416034 29 1601478397
+/
+ip-54-36-148-200.a.ahrefs.com
+0 2 1 18208 0 0
+-
+196.49.73.34.bc.googleusercontent.com
+0 4 2 28734 1 1601384002
+/
+23-94-145-57-host.colocrossing.com
+0 2 2 28692 2 1601023095
+/
+77-88-5-208.spider.yandex.com
+0 3 3 43038 3 1600831694
+/
+ppp91-77-229-149.pppoe.mtu-net.ru
+0 1 1 14346 1 1598941411
+/
+107-172-183-62-host.colocrossing.com
+0 1 1 14346 1 1600101166
+/
+msnbot-40-77-167-215.search.msn.com
+0 2 2 14971 1 1601452720
+/
+msnbot-40-77-167-255.search.msn.com
+0 1 0 21 1 1600653026
+-
+petalbot-114-119-143-69.aspiegel.com
+0 1 0 21 0 0
+-
+206.189.184.16
+0 1 0 21 0 0
+-
+petalbot-114-119-146-37.aspiegel.com
+0 1 0 21 0 0
+-
+msnbot-40-77-167-194.search.msn.com
+0 1 1 23975 0 0
+-
+petalbot-114-119-130-125.aspiegel.com
+0 1 0 21 0 0
+-
+petalbot-114-119-155-96.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-68-host.colocrossing.com
+0 1 1 14346 1 1600860784
+/
+213.199.135.134
+0 16 0 336 0 0
+-
+bd3e2d00.virtua.com.br
+0 70 68 225504 2 1600333252
+/adv_marcelo.htm
+185.81.157.236
+0 2 0 42 0 0
+-
+static.250.8.251.148.clients.your-server.de
+0 2 1 14367 1 1601439542
+/
+99.43.227.35.bc.googleusercontent.com
+0 23 21 301130 2 1599094553
+/areas_atuacao_tribu.htm
+msnbot-207-46-13-201.search.msn.com
+0 2 2 32093 1 1599629110
+/adv_gustavo.htm
+192.71.38.71
+0 1 0 21 0 0
+-
+107-172-183-14-host.colocrossing.com
+0 1 1 14346 1 1601058557
+/
+petalbot-114-119-157-37.aspiegel.com
+0 1 0 21 0 0
+-
+107-172-183-169-host.colocrossing.com
+0 1 1 14346 1 1600716234
+/
+bd3edad3.virtua.com.br
+0 44 43 122867 1 1600519646
+/
+42.cl9com.br
+0 1 1 14346 1 1600225874
+/
+ip-54-36-148-121.a.ahrefs.com
+0 1 1 14415 0 0
+-
+23-94-145-79-host.colocrossing.com
+0 1 1 14346 1 1600852027
+/
+89.7.237.35.bc.googleusercontent.com
+0 23 22 315165 2 1599171978
+/areas_atuacao_tribu.htm
+static.94.119.217.95.clients.your-server.de
+0 22 22 397102 1 1599486705
+/adv_alessandro.htm
+fwdproxy-atn-014.fbsv.net
+0 5 5 9407 0 0
+-
+0.134.196.35.bc.googleusercontent.com
+0 28 24 343920 3 1600911396
+/
+23-94-145-114-host.colocrossing.com
+0 1 1 14346 1 1599832665
+/
+107-172-183-84-host.colocrossing.com
+0 1 0 21 0 0
+-
+google-proxy-66-249-80-36.google.com
+0 2 1 14367 1 1600585160
+/
+msnbot-40-77-167-233.search.msn.com
+0 1 1 2262 0 0
+-
+petalbot-114-119-138-111.aspiegel.com
+0 1 0 21 0 0
+-
+bzq-82-80-249-155.dcenter.bezeqint.net
+0 6 6 26727 0 0
+-
+p3nlhg981.shr.prod.phx3.secureserver.net
+0 1 0 21 0 0
+-
+petalbot-114-119-134-195.aspiegel.com
+0 1 0 21 0 0
+-
+192.71.224.240
+0 1 1 14346 1 1600201614
+/
+fwdproxy-frc-015.fbsv.net
+0 19 18 40143 0 0
+-
+23-94-145-125-host.colocrossing.com
+0 2 2 28692 2 1601062329
+/
+107-172-183-141-host.colocrossing.com
+0 2 2 28692 2 1600350582
+/
+msnbot-13-66-139-0.search.msn.com
+0 2 2 27284 2 1599534070
+/adv_alessandro.htm
+msnbot-40-77-167-48.search.msn.com
+0 1 1 14346 1 1601020554
+/
+221.200.178.107.gae.googleusercontent.com
+0 2 0 42 0 0
+-
+23-94-145-51-host.colocrossing.com
+0 2 2 28692 2 1601400779
+/
+bzq-82-80-249-152.dcenter.bezeqint.net
+0 4 4 6204 0 0
+-
+ns504439.ip-198-245-60.net
+0 1 0 21 0 0
+-
+ip190.ip-66-70-157.net
+0 878 876 2417095 7 1601404309
+/adv_thais.htm
+ec2-34-209-250-46.us-west-2.compute.amazonaws.com
+0 1 1 14346 1 1600287082
+/
+23-94-145-195-host.colocrossing.com
+0 2 2 28692 2 1600965496
+/
+b121c32d.virtua.com.br
+0 108 106 266269 2 1601496353
+/advogados.htm
+23-94-145-136-host.colocrossing.com
+0 1 1 14346 1 1600419669
+/
+107-172-183-152-host.colocrossing.com
+0 1 1 14346 1 1600177991
+/
+b39c8656.virtua.com.br
+0 88 87 301319 1 1600905660
+/adv_marcelo.htm
+102.192.75.34.bc.googleusercontent.com
+0 14 12 170880 2 1601228156
+/areas_atuacao.htm
+199-47-87-143.ip87.iparadigms.net
+0 10 5 70332 2 1601038294
+/adv_anna.htm
+bzq-82-80-249-133.dcenter.bezeqint.net
+0 8 8 24344 0 0
+-
+107-172-183-239-host.colocrossing.com
+0 1 1 14346 1 1600278156
+/
+77-88-5-19.spider.yandex.com
+0 1 0 21 0 0
+-
+petalbot-114-119-150-101.aspiegel.com
+0 1 0 21 0 0
+-
+146.9.196.104.bc.googleusercontent.com
+0 24 22 315186 2 1600865845
+/areas_atuacao_tribu.htm
+60.205.92.252
+0 1 0 21 0 0
+-
+ec2-52-72-83-201.compute-1.amazonaws.com
+0 1 1 14346 1 1600561104
+/
+fwdproxy-lla-013.fbsv.net
+0 2 2 7414 0 0
+-
+fwdproxy-atn-029.fbsv.net
+0 1 1 1056 0 0
+-
+185.191.171.26
+0 2 1 14367 1 1599630513
+/
+23-94-145-243-host.colocrossing.com
+0 1 1 14346 1 1601073409
+/
+li1739-181.members.linode.com
+0 1 0 21 0 0
+-
+23-94-145-147-host.colocrossing.com
+0 1 1 14346 1 1600726122
+/
+77-88-5-60.spider.yandex.com
+0 1 0 21 0 0
+-
+bzq-82-80-249-227.dcenter.bezeqint.net
+0 4 4 3859 0 0
+-
+bd214353.virtua.com.br
+0 64 63 163281 1 1599833433
+/contato.htm
+toad7.sketchengine.eu
+0 24 22 398572 1 1600785791
+/adv_alessandro.htm
+182.11.231.35.bc.googleusercontent.com
+0 24 22 315186 2 1600123094
+/areas_atuacao_tribu.htm
+198.245.61.217
+0 1 0 21 1 1599416093
+-
+76-217-31-195.lightspeed.yrlnca.sbcglobal.net
+0 2 1 14367 1 1601077232
+/
+185.191.171.34
+0 2 0 42 0 0
+-
+104.131.8.207
+0 1 0 21 0 0
+-
+23-94-145-254-host.colocrossing.com
+0 1 1 14346 1 1599835262
+/
+badc25c5.virtua.com.br
+0 64 62 162284 1 1600348113
+/contato.htm
+187-57-151-125.dsl.telesp.net.br
+0 16 16 50672 0 0
+-
+crawl-66-249-70-38.googlebot.com
+0 62 51 636729 37 1601409434
+/
+192.71.142.35
+0 1 0 21 0 0
+-
+hell.seedhost.eu
+0 1 1 14346 1 1601458351
+/
+189-79-226-17.dsl.telesp.net.br
+0 1 1 5242 0 0
+-
+petalbot-114-119-141-67.aspiegel.com
+0 1 0 21 0 0
+-
+6.165.84.170.atlanet.net.br
+0 64 63 176609 3 1599908145
+/
+77-88-5-118.spider.yandex.com
+0 4 3 43059 3 1601290412
+/
+ip-54-36-148-61.a.ahrefs.com
+0 1 1 18187 0 0
+-
+ip-54-36-148-130.a.ahrefs.com
+0 1 1 14346 1 1599630605
+/
+200.49.51.115
+0 78 76 281642 2 1600533290
+/areas_atuacao.htm
+77-88-5-82.spider.yandex.com
+0 3 1 14388 1 1599830275
+/
+sg2nlhg040.shr.prod.sin2.secureserver.net
+0 1 0 21 0 0
+-
+34.75.189.4
+0 1 1 3123 1 1599598518
+/caramico.htm
+17-58-97-155.applebot.apple.com
+0 5 3 42000 3 1599900774
+/areas_atuacao.htm
+petalbot-114-119-132-207.aspiegel.com
+0 1 0 21 0 0
+-
+107-172-183-126-host.colocrossing.com
+0 1 1 14346 1 1599585174
+/
+ip-54-36-149-98.a.ahrefs.com
+0 1 0 21 0 0
+-
+23-94-145-36-host.colocrossing.com
+0 1 0 21 0 0
+-
+192.71.103.173
+0 1 0 21 0 0
+-
+ip-177-79-104-56.user.vivozap.com.br
+0 83 80 242902 1 1600559972
+/caramico.htm
+p3e9d4e8d.dip0.t-ipconnect.de
+0 2 0 42 0 0
+-
+199.47.87.142
+0 1 1 2852 1 1599597959
+/adv_gustavo.htm
+189.33.165.79
+0 7 7 16850 0 0
+-
+msnbot-157-55-39-123.search.msn.com
+0 1 1 13387 1 1598967256
+/areas_atuacao_trab.htm
+179.108.19.23
+0 1 1 14346 1 1599474174
+/
+cache.google.com
+0 1 0 21 1 1599727040
+-
+ip-54-36-149-103.a.ahrefs.com
+0 1 1 13655 1 1600841738
+/adv_gustavo.htm
+178.62.74.6
+0 7 7 97260 3 1600376946
+/adv_gustavo.htm
+ip-54-36-149-23.a.ahrefs.com
+0 1 1 13741 1 1599725493
+/adv_camila.htm
+ip-54-36-148-245.a.ahrefs.com
+0 1 1 14175 1 1599918202
+/advogados.htm
+petalbot-114-119-132-171.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-141-host.colocrossing.com
+0 2 2 28692 2 1601058562
+/
+52.152.136.115
+0 1 1 14346 1 1600176318
+/
+93-158-161-32.spider.yandex.com
+0 2 2 28692 2 1601233345
+/
+ip-177.155.200-48.seanet.com.br
+0 1 0 1208 0 0
+-
+86.62.61.88
+0 1 1 14346 1 1599447178
+/
+ip-54-36-149-28.a.ahrefs.com
+0 1 1 14346 1 1600256350
+/
+5.45.82.205
+0 10 9 128022 2 1600007192
+/contato.htm
+ns366064.ip-94-23-8.eu
+0 8 2 28818 1 1601308645
+/
+107-172-183-244-host.colocrossing.com
+0 1 1 14346 1 1600688777
+/
+petalbot-114-119-146-223.aspiegel.com
+0 1 0 21 0 0
+-
+51-159-30-34.rev.poneytelecom.eu
+0 1 1 14346 1 1599106522
+/
+petalbot-114-119-145-123.aspiegel.com
+0 1 0 21 0 0
+-
+107-172-183-148-host.colocrossing.com
+0 1 1 14346 1 1599230508
+/
+77-88-5-226.spider.yandex.com
+0 1 0 21 0 0
+-
+msnbot-40-77-167-22.search.msn.com
+0 1 0 21 0 0
+-
+fwdproxy-pnb-118.fbsv.net
+0 1 1 2569 0 0
+-
+23-94-145-58-host.colocrossing.com
+0 1 1 14346 1 1601471327
+/
+201-93-158-39.dsl.telesp.net.br
+0 26 26 90626 1 1599571908
+/
+99.194.178.107.gae.googleusercontent.com
+0 1 1 14346 1 1600585161
+/
+bd21a54f.virtua.com.br
+0 83 81 257576 2 1598947894
+/
+crawl-66-249-64-79.googlebot.com
+0 3 3 43038 2 1599069156
+/
+static.88-198-36-62.clients.your-server.de
+0 2 2 34659 1 1600371316
+/adv_marcelo.htm
+23-94-145-152-host.colocrossing.com
+0 1 1 14346 1 1600175192
+/
+93-158-161-43.spider.yandex.com
+0 1 0 21 0 0
+-
+192.36.52.37
+0 1 1 14346 1 1599901801
+/
+159.65.155.152
+0 1 0 21 0 0
+-
+ip-54-36-148-223.a.ahrefs.com
+0 1 0 21 0 0
+-
+ip-54-36-148-97.a.ahrefs.com
+0 1 0 21 0 0
+-
+petalbot-114-119-149-23.aspiegel.com
+0 1 0 21 0 0
+-
+52.188.70.57
+0 1 0 21 0 0
+-
+104.20.185.35.bc.googleusercontent.com
+0 22 20 289930 3 1600922532
+/caramico.htm
+77-88-5-142.spider.yandex.com
+0 1 0 21 0 0
+-
+ip-54-36-148-228.a.ahrefs.com
+0 1 1 14346 1 1598979442
+/
+115.89.74.126
+0 1 1 14346 1 1600621943
+/
+23-94-145-30-host.colocrossing.com
+0 1 1 14346 1 1601073413
+/
+ip-54-36-149-54.a.ahrefs.com
+0 1 0 21 0 0
+-
+23-94-145-174-host.colocrossing.com
+0 1 1 14346 1 1600104673
+/
+23-94-145-211-host.colocrossing.com
+0 1 1 14346 1 1599666806
+/
+ec2-52-37-56-153.us-west-2.compute.amazonaws.com
+0 1 1 14346 1 1601410619
+/
+petalbot-114-119-146-206.aspiegel.com
+0 1 0 21 0 0
+-
+107-172-183-131-host.colocrossing.com
+0 1 1 14346 1 1600680762
+/
+petalbot-114-119-148-155.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-41-host.colocrossing.com
+0 3 3 43038 3 1601397881
+/
+petalbot-114-119-155-1.aspiegel.com
+0 1 0 21 0 0
+-
+petalbot-114-119-142-210.aspiegel.com
+0 1 0 21 0 0
+-
+crawl2-85.oi.tb.007ac9.net
+0 43 43 115885 0 0
+-
+crawl-66-249-64-28.googlebot.com
+0 18 10 143628 9 1601495315
+/
+161.35.90.11
+0 1 0 21 0 0
+-
+87.106.168.220
+0 1 1 14346 1 1599933010
+/
+23-94-145-126-host.colocrossing.com
+0 2 1 14367 1 1599040381
+/
+83.51.73.34.bc.googleusercontent.com
+0 4 2 28734 1 1599264037
+/
+107-172-183-142-host.colocrossing.com
+0 2 1 14367 1 1600421733
+/
+77-88-5-87.spider.yandex.com
+0 1 0 21 0 0
+-
+ip-54-36-148-206.a.ahrefs.com
+0 1 0 21 0 0
+-
+ip-54-36-148-149.a.ahrefs.com
+0 1 1 15397 0 0
+-
+77-88-5-103.spider.yandex.com
+0 1 0 21 0 0
+-
+ec2-54-162-102-36.compute-1.amazonaws.com
+0 6 0 126 0 0
+-
+23-94-145-233-host.colocrossing.com
+0 1 1 14346 1 1600688781
+/
+unn-156-146-36-87.cdn77.com
+0 6 1 14451 1 1600237866
+-
+br-go-gsia-191-242-22-242.vocenafrente.com.br
+0 26 26 90626 1 1600018239
+/
+4.189.75.34.bc.googleusercontent.com
+0 23 21 301130 2 1599598685
+/areas_atuacao_tribu.htm
+179-246-219-102.user.vivozap.com.br
+0 1 1 14346 1 1601222898
+/
+23-94-145-137-host.colocrossing.com
+0 1 1 14346 1 1599565687
+/
+static.87.234.202.116.clients.your-server.de
+0 1 1 14346 1 1599165136
+/
+msnbot-207-46-13-143.search.msn.com
+0 1 1 14175 1 1601231109
+/advogados.htm
+bzq-82-80-249-143.dcenter.bezeqint.net
+0 8 8 28545 0 0
+-
+23-94-145-63-host.colocrossing.com
+0 1 1 14346 1 1601371588
+/
+104.227.190.254
+0 2 2 28692 1 1601081760
+/
+petalbot-114-119-157-221.aspiegel.com
+0 1 0 21 0 0
+-
+ns500847.ip-192-99-149.net
+0 1 1 14346 1 1600645233
+/
+23-94-145-244-host.colocrossing.com
+0 1 1 14346 1 1600415066
+/
+106.250.74.34.bc.googleusercontent.com
+0 4 2 28734 1 1599840007
+/
+fwdproxy-atn-023.fbsv.net
+0 5 5 9413 0 0
+-
+107-172-183-59-host.colocrossing.com
+0 1 1 14346 1 1600844410
+/
+107-172-183-201-host.colocrossing.com
+0 2 1 14367 1 1600980852
+/
+petalbot-114-119-151-75.aspiegel.com
+0 1 0 21 0 0
+-
+200.229.201.190
+0 44 43 122867 1 1600686780
+/
+msnbot-157-55-39-38.search.msn.com
+0 2 0 42 0 0
+-
+85-169-54-125.rev.numericable.fr
+0 2 2 28692 1 1600544104
+/
+ec2-18-237-40-154.us-west-2.compute.amazonaws.com
+0 1 1 14346 1 1601152698
+/
+msnbot-157-55-39-78.search.msn.com
+0 1 1 14374 1 1599991814
+/adv_carlos.htm
+67.141.47.24
+0 1 0 21 0 0
+-
+static.52.66.12.49.clients.ip.serverscity.net
+0 10 0 12080 0 0
+-
+petalbot-114-119-129-74.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-255-host.colocrossing.com
+0 1 1 14346 1 1600444217
+/
+msnbot-207-46-13-222.search.msn.com
+0 3 0 63 0 0
+-
+189-46-112-34.dsl.telesp.net.br
+0 167 152 467234 1 1599941278
+/adv_marcelo.htm
+ip-54-36-149-15.a.ahrefs.com
+0 1 1 14175 1 1599761161
+/advogados.htm
+107-172-183-116-host.colocrossing.com
+0 1 1 14346 1 1600243360
+/
+ip-54-36-148-31.a.ahrefs.com
+0 20 20 279501 16 1600813198
+/areas_atuacao_tribu.htm
+aguas02.brindecontatos.org
+0 2 2 28692 1 1599285772
+/
+aster.arvixe.com
+0 1 0 21 0 0
+-
+msnbot-207-46-13-41.search.msn.com
+0 1 1 2262 0 0
+-
+52.254.1.147
+0 1 1 14346 1 1600231041
+/
+23-94-145-120-host.colocrossing.com
+0 1 1 14346 1 1600953936
+/
+ec2-100-24-108-51.compute-1.amazonaws.com
+0 195 195 508552 0 0
+-
+192.29.97.49
+0 3 1 14388 1 1601088513
+/
+107-172-183-31-host.colocrossing.com
+0 1 1 14346 1 1601026081
+/
+petalbot-114-119-139-133.aspiegel.com
+0 1 0 21 0 0
+-
+ip-54-36-149-68.a.ahrefs.com
+0 1 1 14374 1 1599739801
+/adv_carlos.htm
+23-94-145-96-host.colocrossing.com
+0 1 1 14346 1 1599249536
+/
+107-172-183-127-host.colocrossing.com
+0 1 1 14346 1 1599155485
+/
+204.101.161.19
+0 43 43 122846 1 1600593609
+/
+ip-54-36-148-210.a.ahrefs.com
+0 2 2 26637 1 1599797058
+/contato.htm
+p3e9d4f13.dip0.t-ipconnect.de
+0 1 0 21 0 0
+-
+192.36.53.165
+0 1 0 21 0 0
+-
+130.103.120.77.colo.static.dcvolia.com
+0 1 0 21 0 0
+-
+180.236.231.35.bc.googleusercontent.com
+0 23 21 301799 3 1601233926
+/areas_atuacao_tribu.htm
+107-172-183-42-host.colocrossing.com
+0 1 1 14346 1 1601395483
+/
+fwdproxy-frc-002.fbsv.net
+0 7 7 14373 0 0
+-
+petalbot-114-119-137-237.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-218-host.colocrossing.com
+0 1 1 14346 1 1600779401
+/
+139.59.57.64
+0 1 0 21 0 0
+-
+ip-54-36-148-158.a.ahrefs.com
+0 1 0 21 0 0
+-
+107-172-183-138-host.colocrossing.com
+0 1 0 21 0 0
+-
+4.24.227.35.bc.googleusercontent.com
+0 8 4 57468 2 1601387081
+/
+51-159-18-103.rev.poneytelecom.eu
+0 1 1 14346 1 1601139700
+/
+msnbot-157-55-39-148.search.msn.com
+0 1 1 13642 1 1599238653
+/adv_alessandro.htm
+ns569890.ip-51-79-82.net
+0 1 1 14346 1 1600645202
+/
+petalbot-114-119-144-36.aspiegel.com
+0 1 0 21 0 0
+-
+107-172-183-245-host.colocrossing.com
+0 2 2 28692 2 1600767797
+/
+77-88-5-2.spider.yandex.com
+0 2 1 14367 1 1599604222
+/
+107-172-183-6-host.colocrossing.com
+0 1 0 21 0 0
+-
+petalbot-114-119-132-146.aspiegel.com
+0 1 0 21 0 0
+-
+petalbot-114-119-146-241.aspiegel.com
+0 1 0 21 0 0
+-
+ip-54-36-148-131.a.ahrefs.com
+0 1 1 14415 0 0
+-
+45.225.86.16.novelltelecom.com.br
+0 63 62 169897 1 1599840102
+/advogados.htm
+fwdproxy-lla-117.fbsv.net
+0 1 1 5242 0 0
+-
+93.158.90.94
+0 1 1 14346 1 1600966279
+/
+170.81.202.64
+0 26 26 90626 1 1599210637
+/
+static.55.224.202.116.clients.your-server.de
+0 1 1 14346 1 1600273912
+/
+ip-54-36-148-19.a.ahrefs.com
+0 1 1 14056 1 1599143042
+/caramico.htm
+fwdproxy-frc-032.fbsv.net
+0 14 14 62586 1 1600269010
+/
+189.120.77.35
+0 65 63 184243 1 1599741380
+/adv_gustavo.htm
+petalbot-114-119-133-14.aspiegel.com
+0 1 0 21 0 0
+-
+ip-54-36-149-99.a.ahrefs.com
+0 1 1 13266 1 1599848350
+/areas_atuacao.htm
+23-94-145-20-host.colocrossing.com
+0 1 1 14346 1 1599577014
+/
+ip-54-36-149-0.a.ahrefs.com
+0 1 1 15847 1 1600930198
+/links.htm
+bd675239.virtua.com.br
+0 26 26 90626 1 1601381304
+/
+petalbot-114-119-136-30.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-164-host.colocrossing.com
+0 1 1 14346 1 1600793194
+/
+179-93-217-51.user.vivozap.com.br
+0 44 43 91060 1 1601483960
+/adv_spinelli.htm
+107-172-183-180-host.colocrossing.com
+0 1 1 14346 1 1599573708
+/
+23-94-145-201-host.colocrossing.com
+0 1 0 21 0 0
+-
+107-172-183-121-host.colocrossing.com
+0 1 1 14346 1 1599557700
+/
+petalbot-114-119-131-218.aspiegel.com
+0 3 0 63 0 0
+-
+petalbot-114-119-155-145.aspiegel.com
+0 1 0 21 0 0
+-
+bzq-82-80-249-194.dcenter.bezeqint.net
+0 7 7 10208 0 0
+-
+ip-54-36-148-40.a.ahrefs.com
+0 1 0 21 0 0
+-
+167.127.75.34.bc.googleusercontent.com
+0 4 2 28734 1 1601470536
+/
+23-94-145-212-host.colocrossing.com
+0 1 1 14346 1 1599202815
+/
+23-94-145-116-host.colocrossing.com
+0 1 1 14346 1 1600101162
+/
+petalbot-114-119-155-14.aspiegel.com
+0 1 0 21 0 0
+-
+107-172-183-27-host.colocrossing.com
+0 1 1 14346 1 1600424893
+/
+petalbot-114-119-155-255.aspiegel.com
+0 1 0 21 0 0
+-
+23-94-145-42-host.colocrossing.com
+0 1 1 14346 1 1599565694
+/
+petalbot-114-119-137-184.aspiegel.com
+0 1 0 21 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ip-54-36-148-71.a.ahrefs.com
+0 1 1 29062 0 0
+-
+static.237.157.216.95.clients.your-server.de
+0 41 39 628197 1 1601498279
+-
+77-88-5-212.spider.yandex.com
+0 1 1 14346 1 1601481446
+/
+92.186.243.35.bc.googleusercontent.com
+0 24 22 315186 1 1601486125
+/areas_atuacao_tribu.htm
+77-88-5-73.spider.yandex.com
+0 1 0 21 0 0
+-
+msnbot-40-77-167-19.search.msn.com
+0 1 1 15847 1 1601460733
+/links.htm
+b1218b39.virtua.com.br
+0 57 56 169686 1 1601485589
+/advogados.htm
+179.173.220.177.rfc6598.dynamic.copelfibra.com.br
+0 1 1 14346 1 1601489634
+/
+ec2-34-222-216-153.us-west-2.compute.amazonaws.com
+0 1 1 14346 1 1601496980
+/
+17-58-97-161.applebot.apple.com
+0 1 1 15044 0 0
+-
+scanner3.ispsystem.net
+0 1 1 14346 1 1601474295
+/
+93-158-161-30.spider.yandex.com
+0 1 0 21 0 0
+-
+ip-54-36-149-101.a.ahrefs.com
+0 1 0 21 0 0
+-
+107-172-183-119-host.colocrossing.com
+0 1 1 14346 1 1601447908
+/
+23-94-145-123-host.colocrossing.com
+0 1 0 21 0 0
+-
+23-94-145-193-host.colocrossing.com
+0 1 1 14346 1 1601471335
+/
+host.coloup.com
+0 13 11 157848 10 1601492989
+/
+petalbot-114-119-156-146.aspiegel.com
+0 1 0 21 0 0
+-
+crawl-66-249-70-37.googlebot.com
+0 2 2 28692 1 1601490732
+/
+hosted-by.rootlayer.net
+0 2 2 28692 2 1601473786
+/
+crawl-66-249-64-27.googlebot.com
+0 1 0 21 0 0
+-
+77-88-5-225.spider.yandex.com
+0 1 1 14346 1 1601481452
+/
+17-58-100-82.applebot.apple.com
+0 1 0 21 0 0
+-
+107-172-183-173-host.colocrossing.com
+0 1 1 14346 1 1601458446
+/
+msnbot-40-77-167-198.search.msn.com
+0 1 1 13741 1 1601483302
+/adv_camila.htm
+23-94-145-109-host.colocrossing.com
+0 1 1 14346 1 1601462394
+/
+107-172-183-232-host.colocrossing.com
+0 1 1 14346 1 1601476245
+/
+186.202.173.147
+0 1 1 14346 1 1601478397
+/
+msnbot-40-77-167-215.search.msn.com
+0 1 1 14346 1 1601452720
+/
+msnbot-40-77-167-194.search.msn.com
+0 1 1 23975 0 0
+-
+static.250.8.251.148.clients.your-server.de
+0 2 1 14367 1 1601439542
+/
+b121c32d.virtua.com.br
+0 108 106 266269 2 1601496353
+/advogados.htm
+crawl-66-249-70-38.googlebot.com
+0 1 0 21 0 0
+-
+hell.seedhost.eu
+0 1 1 14346 1 1601458351
+/
+msnbot-40-77-167-22.search.msn.com
+0 1 0 21 0 0
+-
+23-94-145-58-host.colocrossing.com
+0 1 1 14346 1 1601471327
+/
+crawl-66-249-64-28.googlebot.com
+0 2 2 28692 2 1601495315
+/
+179-93-217-51.user.vivozap.com.br
+0 44 43 91060 1 1601483960
+/adv_spinelli.htm
+167.127.75.34.bc.googleusercontent.com
+0 4 2 28734 1 1601470536
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 3212
+http://caramico.adv.br/adv_thais.htm
+1 15
+www.google.com
+0 1
+http://www.caramico.adv.br/adv_camila.htm
+1 3
+http://caramico.adv.br/adv_scarpin.htm
+1 18
+http://caramico.adv.br/areas_atuacao_tribu.htm
+1 34
+http://www.caramico.adv.br/contato.php
+1 6
+http://www.caramico.adv.br/adv_anna.htm
+1 1
+http://caramico.adv.br/adv_carlos.htm
+1 8
+http://caramico.adv.br/adv_marcelo.htm
+1 24
+http://www.caramico.adv.br
+1 1
+http://www.caramico.adv.br/areas_atuacao.htm
+1 55
+http://www.caramico.adv.br/links.htm
+1 35
+http://www.caramico.adv.br/caramico.htm
+1 213
+https://robotstxt.com/
+0 3
+http://caramico.adv.br/areas_atuacao_trab.htm
+1 30
+http://caramico.adv.br/artigos.asp
+1 324
+http://caramico.adv.br/advogados.htm
+1 37
+http://caramico.adv.br/links.htm
+1 31
+http://caramico.adv.br/adv_gustavo.htm
+1 37
+http://www.caramico.adv.br/adv_thais.htm
+1 1
+http://www.caramico.adv.br/adv_alessandro.htm
+1 3
+https://www.google.com.br/
+0 15
+http://caramico.adv.br
+1 4
+http://www.google.com
+0 1
+http://www.caramico.adv.br/artigos.asp
+1 203
+http://caramico.adv.br/areas_atuacao.htm
+1 40
+http://caramico.adv.br/contato.htm
+1 34
+http://www.caramico.adv.br/adv_bruno.htm
+1 36
+http://www.caramico.adv.br/adv_carlos.htm
+1 46
+http://www.bing.com
+0 1
+http://caramico.adv.br/adv_alessandro.htm
+1 19
+https://www.google.com/
+0 41
+http://caramico.adv.br/adv_andrea.htm
+1 26
+http://caramico.adv.br/index.asp
+1 39
+http://www.caramico.adv.br/contato.htm
+1 210
+http://www.caramico.adv.br/
+1 1813
+https://www.google.com
+0 1
+http://www.caramico.adv.br/areas_atuacao_trab.htm
+1 17
+http://www.caramico.adv.br/advogados.htm
+1 373
+http://caramico.adv.br/adv_anna.htm
+1 14
+http://www.caramico.adv.br/adv_scarpin.htm
+1 3
+http://caramico.adv.br/caramico.htm
+1 40
+http://www.caramico.adv.br/adv_marcelo.htm
+1 98
+http://caramico.adv.br/
+1 89
+http://caramico.adv.br/adv_camila.htm
+1 14
+http://www.caramico.adv.br/adv_andrea.htm
+1 16
+http://caramico.adv.br/adv_spinelli.htm
+1 14
+http://www.caramico.adv.br/adv_gustavo.htm
+1 90
+http://www.caramico.adv.br/adv_spinelli.htm
+1 46
+# End Of Table - referrers
+# -agents- 
+Python-urllib/2.7
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/201001
+0 1
+Mozilla/5.0 (compatible; Seekport Crawler; http://seekport.co
+0 42
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.1) Geck
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (
+0 235
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:26.0) Gecko/2
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/201001
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/5
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 F
+0 1
+Googlebot-Image/1.0
+0 29
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML
+0 53
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (
+0 141
+Mozilla
+0 6
+Java/1.8.0_181
+0 1
+IDBTE4M CODE87
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like 
+0 3
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML
+0 1
+ZoominfoBot (zoominfobot at zoominfo dot com)
+0 818
+Go-http-client/1.1
+0 23
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/2010
+0 405
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML
+0 7
+(compatible;PetalBot;+http://aspiegel.com/petalbot)
+0 55
+Mozilla 5.0
+0 35
+Turnitin (https://bit.ly/2UvnfoQ)
+0 32
+python-requests/2.24.0
+0 9
+pimeyes.com crawler
+0 39
+Linux Mozilla
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/53
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/53
+0 1
+Mozilla/5.0 (compatible; SpiderLing (a SPIDER for LINGustic r
+0 48
+Outlook-Express/7.0 (MSIE 7.0; Windows NT 6.1; Trident/7.0; S
+0 1
+e.ventures Investment Crawler (eventures.vc)
+0 43
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/6
+0 29
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/6
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/5
+0 8
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) Appl
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/6
+0 12
+Java/1.7.0_75
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 F
+0 1
+NetSurf/1.2 (NetBSD; amd64)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.13) 
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.2.2) Geck
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML like Gecko) Chrome/79.0
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleW
+0 44
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G970F) AppleWebKit
+0 44
+Mozilla/5.0 (Linux; Android 10; SM-A305GT) AppleWebKit/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 F
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Tr
+0 2
+Firefox
+0 2
+Mozilla/5.0 (Linux; Android 7.0; SM-J710MN) AppleWebKit/537.3
+0 45
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTM
+0 89
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 F
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:26.0) Gecko/20100101 F
+0 1
+adreview/1.0
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/2
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:26.0) Gecko/2
+0 2
+Mozilla/5.0 (compatible; tracemyfile/1.0)
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.0) Gecko/20100101 F
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-PT; rv:1.9.1.2) G
+0 5
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/ro
+0 27
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1084) AppleWebKit/536.
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/2010
+0 368
+Mozilla/5.0 (Windows NT 5.1; rv:26.0) Gecko/20100101 Firefox/
+0 4
+cortex/1.0
+0 10
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 F
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/5
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/5
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/53
+0 1
+Python-urllib/3.7
+0 2
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET 
+0 79
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 
+0 1
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/534.30 (KHTML
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/53
+0 4
+Mozilla/5.0 (compatible; evc-batch/2.0)
+0 2
+python-requests/2.18.4
+0 41
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like 
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/5
+0 1
+Embarcadero URI Client/1.0
+0 4
+curl/7.58.0
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Tri
+0 35
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/53
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+0 1976
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like 
+0 513
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bo
+0 62
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/2010
+0 6
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like 
+0 8
+Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler
+0 19
+Mozilla/5.0 (compatible; filibot/1.0; +https://filibot.com/)
+0 3
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:27.0) Gecko/20100
+0 1
+WhatsApp/2.20.81 i
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.co
+0 235
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:26.0) Gecko/2
+0 3
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) A
+0 2
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.
+0 1
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:36.0) Gecko/20100
+0 4
+Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; Rv:50.0) Gecko/20100101 
+0 4
+Mozilla/5.0 (Linux; Android 10; SM-G973U1) AppleWebKit/537.36
+0 1
+MixnodeCache/1.8(+https://cache.mixnode.com/)
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X) AppleW
+0 163
+Mozilla/5.0 (Windows NT 6.1; rv:22.0) Firefox/22.0 (X11; Linu
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9) Gecko/20
+0 1
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US) App
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) Appl
+0 90
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 F
+0 4
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:72.0) Gecko/201001
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) App
+0 113
+Mozilla/5.0 (Linux; Android 8.1.0; vivo 1807) AppleWebKit/537
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via
+0 1
+CCBot/2.0 (https://commoncrawl.org/faq/)
+0 15
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 F
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100
+0 1
+Mozilla/5.0 (Windows NT 5.1; WOW64) AppleWebKit/537.36 (KHTML
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/53
+0 7
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/201001
+0 3
+MetaInspector/5.6.0 (+https://github.com/jaimeiniesta/metains
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.
+0 5
+(compatible;PetalBot;+https://aspiegel.com/petalbot)
+0 42
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.3) Gecko/20100101 F
+0 4
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bi
+0 88
+DF Bot 1.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 F
+0 2
+Mozilla/5.0 (compatible; SemrushBot-BA; +http://www.semrush.c
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/2010
+0 135
+Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firef
+0 1
+SEMrushBot
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleW
+0 248
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/201001
+0 9
+'Mozilla/5.0 (compatible; Seekport Crawler; http://seekport.c
+0 86
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:26.0) Gecko/2
+0 1
+Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (K
+0 115
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:28.0) Gecko/20100101
+0 47
+WhatsApp/2.20.197.20 A
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/2010
+0 1
+\"Mozilla/5.0\"
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) lik
+0 1
+Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, lik
+0 44
+Mozilla/5.0 (compatible)
+0 1
+Mozilla/5.0 (X11; U; Linux i686; pt-BR; rv:1.9.0.4) Gecko/445
+0 1
+curl/7.70.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:26.0) Gecko/20100101 Firefox/
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit
+0 2
+python-requests/2.5.1 CPython/2.7.10 Linux/3.10.0-1127.8.2.el
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6
+0 1
+Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech
+0 72
+Mozilla/5.0 (Windows NT 6.0; rv:26.0) Gecko/20100101 Firefox/
+0 2
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) li
+0 73
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/5
+0 63
+Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:57.0) Gecko/
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/53
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/ro
+0 74
+Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, li
+0 30
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/53
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:25.0) Gecko/201001
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (
+0 7
+Internet-structure-research-project-bot
+0 1
+Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.
+0 39
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.9.168 Version/11.
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
